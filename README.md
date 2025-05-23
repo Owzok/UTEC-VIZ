@@ -91,20 +91,6 @@ Análisis:  NetworkX + Custom algorithms
 - **Hover tooltips**: Información detallada instantánea
 - **Click panels**: Expansión de análisis específicos
 
-## 🔍 Insights Descubiertos
-
-### Patrones Emergentes
-1. **Colaboración Interdisciplinaria**: Los puentes departamentales tienden a ser profesores senior con múltiples afiliaciones
-2. **Clusters de Investigación**: Formación natural de grupos de investigación visibles en la topología de red
-3. **Influencia vs Conectividad**: No siempre coinciden los académicos más conectados con los más influyentes
-4. **Jerarquías Implícitas**: La estructura de red revela jerarquías no oficiales en la institución
-
-### Casos de Uso
-- **Planificación Estratégica**: Identificar oportunidades de colaboración
-- **Desarrollo de Talento**: Localizar mentores y colaboradores ideales
-- **Evaluación Institucional**: Medir salud de la colaboración académica
-- **Networking Académico**: Facilitar conexiones estratégicas
-
 ### Estructura de Archivos
 ```
 📁 app/
