@@ -1,4 +1,4 @@
-# Faculty Network Analysis & Visualization
+# UTEC - VIZ
 
 Una visualización interactiva de red que revela los patrones de colaboración, influencia y conectividad entre los miembros del cuerpo docente universitario mediante técnicas avanzadas de web scraping y análisis de redes sociales.
 
