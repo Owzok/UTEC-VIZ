@@ -1,0 +1,4295 @@
+{
+  "nodes": [
+    {
+      "id": 0,
+      "name": "José Manuel Aguilar Alfaro",
+      "department": "Departamento de Negocios Digitales",
+      "email": "jaguilar@utec.edu.pe",
+      "research_areas": "Estrategia Organizacional; Gestión de la Innovación; Gestión Financiera; Comportamiento del Consumidor",
+      "h_index": 0,
+      "citations": 0,
+      "image_url": "https://cris.utec.edu.pe/files-asset/25754110/aguilar-alfaro-jose-manuel.jpg?w=160&f=jpg",
+      "research_groups": "Grupo de Investigación en Analítica de Datos y Ciencias de Decisión (DADS)",
+      "degree_centrality": 0.088,
+      "betweenness_centrality": 0.015,
+      "closeness_centrality": 0.29,
+      "pagerank": 0.013,
+      "clustering": 0.235,
+      "degree": 8,
+      "color": "#1f77b4",
+      "size": 24
+    },
+    {
+      "id": 1,
+      "name": "Grace Alexandrino Ocaña",
+      "department": "Departamento de Humanidades, Artes y Ciencias Sociales",
+      "email": "",
+      "research_areas": "Arqueología; Antropología; Estudios de Patrimonio",
+      "h_index": 2,
+      "citations": 8,
+      "image_url": "https://cris.utec.edu.pe/files-asset/24799661/alexandrino-ocana-grace.jpg?w=160&f=jpg",
+      "research_groups": "",
+      "degree_centrality": 0.077,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.234,
+      "pagerank": 0.011,
+      "clustering": 0.245,
+      "degree": 7,
+      "color": "#9467bd",
+      "size": 23
+    },
+    {
+      "id": 2,
+      "name": "Helard Alvarez Sanchez",
+      "department": "Departamento de Ingeniería Mecánica y de la Energía",
+      "email": "halvarez@utec.edu.pe",
+      "research_areas": "Diseño, fabricación y construcción de estructuras mecánicas.; Estructuras mecánicas para minería.",
+      "h_index": 2,
+      "citations": 7,
+      "image_url": "https://cris.utec.edu.pe/files-asset/18891305/alvarez_sanchez_helard.jpg?w=160&f=jpg",
+      "research_groups": "Grupo de investigación en energía y minas; Grupo de Investigación en Diseño de Productos con Simulación Computacional (MSP)",
+      "degree_centrality": 0.132,
+      "betweenness_centrality": 0.02,
+      "closeness_centrality": 0.518,
+      "pagerank": 0.016,
+      "clustering": 0.414,
+      "degree": 12,
+      "color": "#8c564b",
+      "size": 25
+    },
+    {
+      "id": 3,
+      "name": "Claudia Antonini Bova",
+      "department": "Departamento de Ingeniería Industrial y Gestión de la Ingeniería",
+      "email": "cantonini@utec.edu.pe",
+      "research_areas": "Matemática aplicada; estadística; geoestadística; investigación de operaciones; simulaciones; sistemas logísticos alimentarios; logística y ventas del canal tradicional.",
+      "h_index": 3,
+      "citations": 25,
+      "image_url": "https://cris.utec.edu.pe/files-asset/18891487/antonini_bova_claudia.jpg?w=160&f=jpg",
+      "research_groups": "Grupo de Investigación en Analítica de Datos y Ciencias de Decisión (DADS)",
+      "degree_centrality": 0.11,
+      "betweenness_centrality": 0.001,
+      "closeness_centrality": 0.269,
+      "pagerank": 0.016,
+      "clustering": 0.288,
+      "degree": 10,
+      "color": "#e377c2",
+      "size": 25
+    },
+    {
+      "id": 4,
+      "name": "Sergio Aranda Egusquiza",
+      "department": "Departamento de Ingeniería Electrónica y Mecatrónica",
+      "email": "saranda@utec.edu.pe",
+      "research_areas": "Sistemas inteligentes.; Redes de comunicación.",
+      "h_index": 1,
+      "citations": 1,
+      "image_url": "https://cris.utec.edu.pe/files-asset/19172342/aranda_egusquiza_sergio.jpg?w=160&f=jpg",
+      "research_groups": "",
+      "degree_centrality": 0.099,
+      "betweenness_centrality": 0.003,
+      "closeness_centrality": 0.33,
+      "pagerank": 0.006,
+      "clustering": 0.295,
+      "degree": 9,
+      "color": "#17becf",
+      "size": 25
+    },
+    {
+      "id": 5,
+      "name": "Patricia Araujo Pantoja",
+      "department": "Departamento de Ingeniería Mecánica y de la Energía",
+      "email": "paraujo@utec.edu.pe",
+      "research_areas": "Área de energía; Responsabilidad social.; Educación; Medio ambiente; Énfasis en hidrocarburos (captura y almacenamiento de CO2, combustibles sintéticos, tecnología emergentes como creación de nuevos catalizadores,  nanotecnología, tecnologías de gasificación); Biogás y energías de biomasa; Procesos químicos industriales,",
+      "h_index": 4,
+      "citations": 68,
+      "image_url": "https://cris.utec.edu.pe/files-asset/25783439/araujo-pantoja-patricia.jpg?w=160&f=jpg",
+      "research_groups": "Grupo de investigación en energía y minas",
+      "degree_centrality": 0.121,
+      "betweenness_centrality": 0.001,
+      "closeness_centrality": 0.395,
+      "pagerank": 0.013,
+      "clustering": 0.441,
+      "degree": 11,
+      "color": "#8c564b",
+      "size": 25
+    },
+    {
+      "id": 6,
+      "name": "Andrés Julián Arias Moreno",
+      "department": "Departamento de Bioingeniería e Ingeniería Química",
+      "email": "aariasm@utec.edu.pe",
+      "research_areas": "Biomecánica; Biomateriales; Elementos micro-finitos; Estructura ósea",
+      "h_index": 4,
+      "citations": 70,
+      "image_url": "https://cris.utec.edu.pe/files-asset/19169634/arias_moreno_andres.jpg?w=160&f=jpg",
+      "research_groups": "Centro de Investigación en Bioingeniería - BIO",
+      "degree_centrality": 0.11,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.374,
+      "pagerank": 0.009,
+      "clustering": 0.251,
+      "degree": 10,
+      "color": "#bcbd22",
+      "size": 25
+    },
+    {
+      "id": 7,
+      "name": "Luis Bedriñana Mera",
+      "department": "Departamento de Ingeniería Civil y Ambiental",
+      "email": "lbedrinana@utec.edu.pe",
+      "research_areas": "Evaluación experimental y numérica de estructuras de hormigón armado sometidas a cargas extremas; ingeniería sísmica basada en el rendimiento y el riesgo sísmico; sistemas estructurales innovadores de bajo daño; aislamiento sísmico y control de respuesta estructural; vigilancia de la salud estructural; materiales de construcción innovadores; \"ciívionoics\" para respuestas ambientales y mecánicas; materiales concretos en 3D; sistemas estructurales con materiales reciclados.",
+      "h_index": 5,
+      "citations": 75,
+      "image_url": "https://cris.utec.edu.pe/files-asset/18892117/bedrinana_mera_luis.jpg?w=160&f=jpg",
+      "research_groups": "Grupo de Investigación en Infraestructura de Concreto Resiliente y Sostenible (ReSusCon); Centro de Investigación del Cemento y Concreto - CIC; Centro de Investigación y Conservación del Patrimonio",
+      "degree_centrality": 0.077,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.239,
+      "pagerank": 0.012,
+      "clustering": 0.228,
+      "degree": 7,
+      "color": "#1f77b4",
+      "size": 25
+    },
+    {
+      "id": 8,
+      "name": "Omar Bejarano Grández",
+      "department": "Departamento de Ingeniería Mecánica y de la Energía",
+      "email": "obejarano@utec.edu.pe",
+      "research_areas": "análisis por elementos finitos; dinámica rígida; análisis modal; térmico de sólidos y fluidos",
+      "h_index": 0,
+      "citations": 0,
+      "image_url": "https://cris.utec.edu.pe/files-asset/21902885/bejarano_grandez_omar.jpg?w=160&f=jpg",
+      "research_groups": "Grupo de investigación en energía y minas; Grupo de Investigación en Diseño de Productos con Simulación Computacional (MSP)",
+      "degree_centrality": 0.132,
+      "betweenness_centrality": 0.02,
+      "closeness_centrality": 0.518,
+      "pagerank": 0.015,
+      "clustering": 0.409,
+      "degree": 12,
+      "color": "#8c564b",
+      "size": 25
+    },
+    {
+      "id": 9,
+      "name": "Jesús Edwin Bellido Angulo",
+      "department": "Departamento de Ciencia de la Computación",
+      "email": "jbellido@utec.edu.pe",
+      "research_areas": "Ingeniería de software; arquitectura de software; Arquitectura Orientada a Servicios; Big Data",
+      "h_index": 4,
+      "citations": 84,
+      "image_url": "https://cris.utec.edu.pe/files-asset/18891996/bellido_angulo_jesus.jpg?w=160&f=jpg",
+      "research_groups": "Grupo de Investigación en Inteligencia Artificial (GINIA); Centro de Investigación en Sostenibilidad Computacional - CompSust",
+      "degree_centrality": 0.143,
+      "betweenness_centrality": 0.008,
+      "closeness_centrality": 0.365,
+      "pagerank": 0.016,
+      "clustering": 0.273,
+      "degree": 13,
+      "color": "#7f7f7f",
+      "size": 25
+    },
+    {
+      "id": 10,
+      "name": "Carlos Alberto Benedetty Torres",
+      "department": "Departamento de Ingeniería Civil y Ambiental",
+      "email": "cbenedetty@utec.edu.pe",
+      "research_areas": "Análisis del comportamiento de materiales para estructuras; Análisis no lineal de estructuras de concreto armado.; Concretos reforzados con fibras; Concretos de ultra alto desempeño; Estructuras mixtas de acero-concreto.; Concretos con agregados reciclados",
+      "h_index": 3,
+      "citations": 72,
+      "image_url": "https://cris.utec.edu.pe/files-asset/24489212/benedetty-carlos.jpg?w=160&f=jpg",
+      "research_groups": "Grupo de Investigación en Infraestructura de Concreto Resiliente y Sostenible (ReSusCon)",
+      "degree_centrality": 0.077,
+      "betweenness_centrality": 0.032,
+      "closeness_centrality": 0.27,
+      "pagerank": 0.011,
+      "clustering": 0.219,
+      "degree": 7,
+      "color": "#1f77b4",
+      "size": 24
+    },
+    {
+      "id": 11,
+      "name": "Juan Bueno Villanueva",
+      "department": "Departamento de Ingeniería Industrial y Gestión de la Ingeniería",
+      "email": "jbueno@utec.edu.pe",
+      "research_areas": "Sistemas de Información",
+      "h_index": 0,
+      "citations": 0,
+      "image_url": "https://cris.utec.edu.pe/files-asset/19489355/bueno_villanueva_juan.jpg?w=160&f=jpg",
+      "research_groups": "",
+      "degree_centrality": 0.077,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.252,
+      "pagerank": 0.007,
+      "clustering": 0.257,
+      "degree": 7,
+      "color": "#e377c2",
+      "size": 21
+    },
+    {
+      "id": 12,
+      "name": "Jhedmar Jhonatan Callupe Luna",
+      "department": "Departamento de Ingeniería Electrónica y Mecatrónica",
+      "email": "jcallupe@utec.edu.pe",
+      "research_areas": "Bioingeniería; Inteligencia Artificial",
+      "h_index": 2,
+      "citations": 9,
+      "image_url": "https://cris.utec.edu.pe/files-asset/25685604/callupe-luna-jhedmar-jhonatan.jpg?w=160&f=jpg",
+      "research_groups": "Grupo de Investigación en Robótica, Inteligencia Artificial y Control Avanzado (RIC)",
+      "degree_centrality": 0.099,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.198,
+      "pagerank": 0.012,
+      "clustering": 0.453,
+      "degree": 9,
+      "color": "#17becf",
+      "size": 25
+    },
+    {
+      "id": 13,
+      "name": "Ruth Canahuire Cabello",
+      "department": "Departamento de Ingeniería Electrónica y Mecatrónica",
+      "email": "rcanahuire@utec.edu.pe",
+      "research_areas": "Modelado y control de sistemas mecánicos y mecatrónicos; Robótica médica; Robótica móvil",
+      "h_index": 6,
+      "citations": 97,
+      "image_url": "https://cris.utec.edu.pe/files-asset/19169709/canahuire_cabello_ruth.jpg?w=160&f=jpg",
+      "research_groups": "Grupo de Investigación en Robótica, Inteligencia Artificial y Control Avanzado (RIC); Centro de Investigación en Bioingeniería - BIO",
+      "degree_centrality": 0.099,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.189,
+      "pagerank": 0.013,
+      "clustering": 0.48,
+      "degree": 9,
+      "color": "#17becf",
+      "size": 25
+    },
+    {
+      "id": 14,
+      "name": "Paul Cardenas Lizana",
+      "department": "Departamento de Bioingeniería e Ingeniería Química",
+      "email": "pcardenas@utec.edu.pe",
+      "research_areas": "Señalización temprana de células T.; mecanobiología de células T y receptores PD 1; coreceptores CD8 / CD4; dominios de señalización CD3; dinámica molecular; inmunología molecular; modelado probabilístico para entender interacciones de biomoléculas; aprendizaje automático en inmunología; modelamiento de fluidos a macroescala en sistemas biológicos",
+      "h_index": 2,
+      "citations": 16,
+      "image_url": "https://cris.utec.edu.pe/files-asset/19169784/cardenas_lizana_paul.jpg?w=160&f=jpg",
+      "research_groups": "Centro de Investigación en Bioingeniería - BIO",
+      "degree_centrality": 0.11,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.376,
+      "pagerank": 0.009,
+      "clustering": 0.242,
+      "degree": 10,
+      "color": "#bcbd22",
+      "size": 25
+    },
+    {
+      "id": 15,
+      "name": "Samuel Charca Mamani",
+      "department": "Departamento de Ingeniería Mecánica y de la Energía",
+      "email": "scharca@utec.edu.pe",
+      "research_areas": "Diseño estructural y caracterización de materiales; Materiales compuestos con fibras naturales; Caracterización de materiales para robótica blanda; Evaluación de daños en materiales estructurales",
+      "h_index": 11,
+      "citations": 378,
+      "image_url": "https://cris.utec.edu.pe/files-asset/19169804/charca_mamani_samuel.jpg?w=160&f=jpg",
+      "research_groups": "Centro de Investigación y Conservación del Patrimonio",
+      "degree_centrality": 0.11,
+      "betweenness_centrality": 0.007,
+      "closeness_centrality": 0.423,
+      "pagerank": 0.007,
+      "clustering": 0.324,
+      "degree": 10,
+      "color": "#8c564b",
+      "size": 25
+    },
+    {
+      "id": 16,
+      "name": "Xyoby Chavez Pacheco",
+      "department": "Departamento de Ciencias",
+      "email": "xchavez@utec.edu.pe",
+      "research_areas": "Matemática Aplicada; Modelado de sistemas estocásticos",
+      "h_index": 0,
+      "citations": 0,
+      "image_url": "https://cris.utec.edu.pe/files-asset/19169822/chavez_pacheco_xyoby.jpg?w=160&f=jpg",
+      "research_groups": "",
+      "degree_centrality": 0.121,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.357,
+      "pagerank": 0.01,
+      "clustering": 0.235,
+      "degree": 11,
+      "color": "#ff7f0e",
+      "size": 25
+    },
+    {
+      "id": 17,
+      "name": "Fabien Cornillier",
+      "department": "Departamento de Ingeniería Industrial y Gestión de la Ingeniería",
+      "email": "fypcornillier@utec.edu.pe",
+      "research_areas": "Investigación de operaciones; optimización combinatoria; métodos heurísticos; aplicaciones en problemas de logística y de planificación (en particular: transporte, minería).",
+      "h_index": 8,
+      "citations": 537,
+      "image_url": "https://cris.utec.edu.pe/files-asset/19169853/corniller_fabien.jpg?w=160&f=jpg",
+      "research_groups": "Grupo de Investigación en Analítica de Datos y Ciencias de Decisión (DADS); Centro de Investigación en Sostenibilidad Computacional - CompSust",
+      "degree_centrality": 0.11,
+      "betweenness_centrality": 0.011,
+      "closeness_centrality": 0.295,
+      "pagerank": 0.015,
+      "clustering": 0.278,
+      "degree": 10,
+      "color": "#e377c2",
+      "size": 25
+    },
+    {
+      "id": 18,
+      "name": "Antuané De La Flor Basterrechea",
+      "department": "Departamento de Humanidades, Artes y Ciencias Sociales",
+      "email": "adelaflor@utec.edu.pe",
+      "research_areas": "Género; Arte",
+      "h_index": 0,
+      "citations": 0,
+      "image_url": "https://cris.utec.edu.pe/files-asset/19170012/delaflor_basterrechea_antuane.jpg?w=160&f=jpg",
+      "research_groups": "Centro de Impacto y Responsabilidad Social - CIRSO",
+      "degree_centrality": 0.077,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.256,
+      "pagerank": 0.011,
+      "clustering": 0.235,
+      "degree": 7,
+      "color": "#9467bd",
+      "size": 21
+    },
+    {
+      "id": 19,
+      "name": "Jose De La Puente Maldonado",
+      "department": "Departamento de Ingeniería Industrial y Gestión de la Ingeniería",
+      "email": "jdelapuente@utec.edu.pe",
+      "research_areas": "Opeaciones industriales; Gestión empresarial",
+      "h_index": 0,
+      "citations": 0,
+      "image_url": "https://cris.utec.edu.pe/files-asset/19170040/delapuente_maldonado_jose.jpg?w=160&f=jpg",
+      "research_groups": "",
+      "degree_centrality": 0.077,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.252,
+      "pagerank": 0.007,
+      "clustering": 0.257,
+      "degree": 7,
+      "color": "#e377c2",
+      "size": 21
+    },
+    {
+      "id": 20,
+      "name": "José Andrés De Leo Martínez",
+      "department": "Departamento de Humanidades, Artes y Ciencias Sociales",
+      "email": "adeleo@utec.edu.pe",
+      "research_areas": "Arte de los Virreinatos Americanos; Materialidad y técnicas de patrimonio cultural; Curaduría y museografía",
+      "h_index": 1,
+      "citations": 3,
+      "image_url": "https://cris.utec.edu.pe/files-asset/19170063/deleo_martinez_jose.jpg?w=160&f=jpg",
+      "research_groups": "Centro de Investigación y Conservación del Patrimonio",
+      "degree_centrality": 0.077,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.234,
+      "pagerank": 0.011,
+      "clustering": 0.245,
+      "degree": 7,
+      "color": "#9467bd",
+      "size": 22
+    },
+    {
+      "id": 21,
+      "name": "Jose Gerardo Deustua Rossel",
+      "department": "Unknown Department",
+      "email": "jdeustua@utec.edu.pe",
+      "research_areas": "",
+      "h_index": 0,
+      "citations": 0,
+      "image_url": "https://cris.utec.edu.pe/files-asset/21821347/deustua_rossel_jose_gerardo.jpg?w=160&f=jpg",
+      "research_groups": "",
+      "degree_centrality": 0.055,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.183,
+      "pagerank": 0.011,
+      "clustering": 0.235,
+      "degree": 5,
+      "color": "#2ca02c",
+      "size": 15
+    },
+    {
+      "id": 22,
+      "name": "Manuel Arturo Deza Figueroa",
+      "department": "Departamento de Ciencia de la Computación",
+      "email": "mdeza@utec.edu.pe",
+      "research_areas": "Sistemas perceptivos híbridos; Representation Learning; Robótica",
+      "h_index": 6,
+      "citations": 118,
+      "image_url": "https://cris.utec.edu.pe/files-asset/24106839/deza-figueroa-arturo.jpg?w=160&f=jpg",
+      "research_groups": "Grupo de Investigación en Inteligencia Artificial (GINIA)",
+      "degree_centrality": 0.143,
+      "betweenness_centrality": 0.025,
+      "closeness_centrality": 0.393,
+      "pagerank": 0.015,
+      "clustering": 0.26,
+      "degree": 13,
+      "color": "#7f7f7f",
+      "size": 25
+    },
+    {
+      "id": 23,
+      "name": "Alberto Donayre Torres",
+      "department": "Departamento de Bioingeniería e Ingeniería Química",
+      "email": "adonayre@utec.edu.pe",
+      "research_areas": "Biología Sintética; Biotecnología; Síntesis y producción de bioproductos; Bioinformática",
+      "h_index": 5,
+      "citations": 129,
+      "image_url": "https://cris.utec.edu.pe/files-asset/19170083/donayre_torres_alberto.jpg?w=160&f=jpg",
+      "research_groups": "Centro de Investigación en Bioingeniería - BIO",
+      "degree_centrality": 0.11,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.365,
+      "pagerank": 0.011,
+      "clustering": 0.284,
+      "degree": 10,
+      "color": "#bcbd22",
+      "size": 25
+    },
+    {
+      "id": 24,
+      "name": "Jose Fiestas Iquira",
+      "department": "Departamento de Ciencia de la Computación",
+      "email": "jfiestas@utec.edu.pe",
+      "research_areas": "Modelos interdisciplinarios de alto rendimiento computacional (HPC, BigData); Desarrollo de algoritmos para GPU y sistemas híbridos (CPU+GPU); Desarrollo de Hardware y Software para HPC",
+      "h_index": 5,
+      "citations": 166,
+      "image_url": "https://cris.utec.edu.pe/files-asset/19170115/fiestas_iquira_jose.jpg?w=160&f=jpg",
+      "research_groups": "Grupo de Investigación en Infraestructura de Concreto Resiliente y Sostenible (ReSusCon); Centro de Investigación en Sostenibilidad Computacional - CompSust",
+      "degree_centrality": 0.143,
+      "betweenness_centrality": 0.043,
+      "closeness_centrality": 0.355,
+      "pagerank": 0.015,
+      "clustering": 0.223,
+      "degree": 13,
+      "color": "#7f7f7f",
+      "size": 25
+    },
+    {
+      "id": 25,
+      "name": "Elena Flores Barreda",
+      "department": "Departamento de Bioingeniería e Ingeniería Química",
+      "email": "cfloresb@utec.edu.pe",
+      "research_areas": "Uso de fibras naturales para biomateriales y químicos; Descontaminación del agua; Recuperación de residuos industriales; Materiales compuestos para construcción",
+      "h_index": 7,
+      "citations": 136,
+      "image_url": "https://cris.utec.edu.pe/files-asset/19170139/flores_barreda_carmen_elena.jpg?w=160&f=jpg",
+      "research_groups": "Centro de Investigación en Bioingeniería - BIO",
+      "degree_centrality": 0.11,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.367,
+      "pagerank": 0.011,
+      "clustering": 0.276,
+      "degree": 10,
+      "color": "#bcbd22",
+      "size": 25
+    },
+    {
+      "id": 26,
+      "name": "Luis Ernesto Flores Luyo",
+      "department": "Departamento de Ingeniería Industrial y Gestión de la Ingeniería",
+      "email": "lfloresl@utec.edu.pe",
+      "research_areas": "",
+      "h_index": 0,
+      "citations": 0,
+      "image_url": "https://cris.utec.edu.pe/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png",
+      "research_groups": "Grupo de Investigación en Analítica de Datos y Ciencias de Decisión (DADS)",
+      "degree_centrality": 0.11,
+      "betweenness_centrality": 0.011,
+      "closeness_centrality": 0.295,
+      "pagerank": 0.015,
+      "clustering": 0.278,
+      "degree": 10,
+      "color": "#e377c2",
+      "size": 25
+    },
+    {
+      "id": 27,
+      "name": "Christian Flores Vega",
+      "department": "Departamento de Ingeniería Electrónica y Mecatrónica",
+      "email": "cflores@utec.edu.pe",
+      "research_areas": "Procesamiento de señales biomédicas; Interfase Cerebro Computadora (BCI); aprendizaje automático para clasificación y pronóstico en diversas aplicaciones",
+      "h_index": 7,
+      "citations": 158,
+      "image_url": "https://cris.utec.edu.pe/files-asset/19170237/flores_vega_christian.jpg?w=160&f=jpg",
+      "research_groups": "Grupo de Investigación en Robótica, Inteligencia Artificial y Control Avanzado (RIC)",
+      "degree_centrality": 0.099,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.189,
+      "pagerank": 0.013,
+      "clustering": 0.48,
+      "degree": 9,
+      "color": "#17becf",
+      "size": 25
+    },
+    {
+      "id": 28,
+      "name": "José Tomás Gálvez Ghersi",
+      "department": "Departamento de Ciencias",
+      "email": "jgalvezg@utec.edu.pe",
+      "research_areas": "Cosmología del universo primitivo: inflación cósmica y teorías alternativas; fenomenología de la gravedad fuerte y ondas gravitacionales.; dinámica no lineal y conexiones entre gravedad y termodinámica",
+      "h_index": 8,
+      "citations": 961,
+      "image_url": "https://cris.utec.edu.pe/files-asset/19170257/galvez_ghersi_jose.jpg?w=160&f=jpg",
+      "research_groups": "Grupo de Investigación en Física Fundamental (GIFF); Centro de Investigación en Sostenibilidad Computacional - CompSust",
+      "degree_centrality": 0.121,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.35,
+      "pagerank": 0.012,
+      "clustering": 0.264,
+      "degree": 11,
+      "color": "#ff7f0e",
+      "size": 25
+    },
+    {
+      "id": 29,
+      "name": "Oscar Gamonal Pajares",
+      "department": "Departamento de Ingeniería Industrial y Gestión de la Ingeniería",
+      "email": "ogamonal@utec.edu.pe",
+      "research_areas": "",
+      "h_index": 0,
+      "citations": 0,
+      "image_url": "https://cris.utec.edu.pe/files-asset/19170274/gamonal_pajares_oscar.jpg?w=160&f=jpg",
+      "research_groups": "",
+      "degree_centrality": 0.077,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.252,
+      "pagerank": 0.007,
+      "clustering": 0.257,
+      "degree": 7,
+      "color": "#e377c2",
+      "size": 21
+    },
+    {
+      "id": 30,
+      "name": "Germain García Zanabria",
+      "department": "Departamento de Ciencia de Datos y Sistemas de Información",
+      "email": "",
+      "research_areas": "Visualización de datos; machine learning; data science; análisis de crímenes; predicción de crímenes; dropout análisis; datos geo-referenciados; análisis espacio-temporales; computación aplicada a problemas sociales",
+      "h_index": 6,
+      "citations": 98,
+      "image_url": "https://cris.utec.edu.pe/files-asset/24148814/garcia-zanabria-germain_1_.jpg?w=160&f=jpg",
+      "research_groups": "Grupo de Investigación en Inteligencia Artificial (GINIA)",
+      "degree_centrality": 0.055,
+      "betweenness_centrality": 0.006,
+      "closeness_centrality": 0.331,
+      "pagerank": 0.008,
+      "clustering": 0.361,
+      "degree": 5,
+      "color": "#d62728",
+      "size": 21
+    },
+    {
+      "id": 31,
+      "name": "Jorge Gonzalez Reaño",
+      "department": "Departamento de Ciencia de la Computación",
+      "email": "jgonzalez@utec.edu.pe",
+      "research_areas": "Nivel  VII",
+      "h_index": 3,
+      "citations": 32,
+      "image_url": "https://cris.utec.edu.pe/files-asset/19170336/gonzales_reano_jorge.jpg?w=160&f=jpg",
+      "research_groups": "Centro de Investigación en Sostenibilidad Computacional - CompSust",
+      "degree_centrality": 0.121,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.365,
+      "pagerank": 0.01,
+      "clustering": 0.281,
+      "degree": 11,
+      "color": "#7f7f7f",
+      "size": 25
+    },
+    {
+      "id": 32,
+      "name": "Leo Guerrero",
+      "department": "Unknown Department",
+      "email": "",
+      "research_areas": "",
+      "h_index": 3,
+      "citations": 16,
+      "image_url": "https://cris.utec.edu.pe/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png",
+      "research_groups": "Centro de Investigación y Tecnología del Agua - CITA",
+      "degree_centrality": 0.055,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.162,
+      "pagerank": 0.012,
+      "clustering": 0.248,
+      "degree": 5,
+      "color": "#2ca02c",
+      "size": 18
+    },
+    {
+      "id": 33,
+      "name": "Juan Gabriel Gutierrez Alva",
+      "department": "Departamento de Ciencia de la Computación",
+      "email": "jgutierreza@utec.edu.pe",
+      "research_areas": "Nivel V",
+      "h_index": 3,
+      "citations": 25,
+      "image_url": "https://cris.utec.edu.pe/files-asset/19170355/gutierrez_alva_juan.jpg?w=160&f=jpg",
+      "research_groups": "Grupo de Investigación en Algoritmos, Combinatoria y Teoría de la Computación (ALGCOMB); Centro de Investigación en Sostenibilidad Computacional - CompSust",
+      "degree_centrality": 0.121,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.358,
+      "pagerank": 0.012,
+      "clustering": 0.314,
+      "degree": 11,
+      "color": "#7f7f7f",
+      "size": 25
+    },
+    {
+      "id": 34,
+      "name": "Julio Gutierrez Alva",
+      "department": "Departamento de Ciencia de Datos y Sistemas de Información",
+      "email": "jgutierreza@utec.edu.pe",
+      "research_areas": "",
+      "h_index": 1,
+      "citations": 1,
+      "image_url": "https://cris.utec.edu.pe/files-asset/19170374/gutierrez_alva_julio.jpg?w=160&f=jpg",
+      "research_groups": "Grupo de Investigación en Analítica de Datos y Ciencias de Decisión (DADS)",
+      "degree_centrality": 0.077,
+      "betweenness_centrality": 0.004,
+      "closeness_centrality": 0.309,
+      "pagerank": 0.011,
+      "clustering": 0.337,
+      "degree": 7,
+      "color": "#d62728",
+      "size": 22
+    },
+    {
+      "id": 35,
+      "name": "Yuri Herrera Burstein",
+      "department": "Departamento de Negocios Digitales",
+      "email": "yherrera@utec.edu.pe",
+      "research_areas": "",
+      "h_index": 1,
+      "citations": 6,
+      "image_url": "https://cris.utec.edu.pe/files-asset/23816546/Dise_o_sin_t_tulo_46_.png?w=160&f=jpg",
+      "research_groups": "",
+      "degree_centrality": 0.022,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.235,
+      "pagerank": 0.004,
+      "clustering": 0.231,
+      "degree": 2,
+      "color": "#1f77b4",
+      "size": 7
+    },
+    {
+      "id": 36,
+      "name": "Oscar Hidalgo Wuest",
+      "department": "Departamento de Humanidades, Artes y Ciencias Sociales",
+      "email": "ohidalgo@utec.edu.pe",
+      "research_areas": "Lingüística con estudios en fonoaudiología; interfaz cerebro-lenguaje; neurociencia; amazonas y poblaciones nativas.",
+      "h_index": 0,
+      "citations": 0,
+      "image_url": "https://cris.utec.edu.pe/files-asset/19170394/hidalgo_wuest_oscar.jpg?w=160&f=jpg",
+      "research_groups": "Centro de Impacto y Responsabilidad Social - CIRSO",
+      "degree_centrality": 0.077,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.256,
+      "pagerank": 0.011,
+      "clustering": 0.235,
+      "degree": 7,
+      "color": "#9467bd",
+      "size": 21
+    },
+    {
+      "id": 37,
+      "name": "Daniel Vicente Horna Muñoz",
+      "department": "Departamento de Ingeniería Civil y Ambiental",
+      "email": "",
+      "research_areas": "Calidad de aire; modelamiento computacional; hidráulica; high performance computing; LiDAR; inundaciones; Modelos computacionales tridimensionales y bidimensionales de dinámica de fluidos para estudiar una variedad de fluidos ambientales y problemas de ingeniería",
+      "h_index": 7,
+      "citations": 185,
+      "image_url": "https://cris.utec.edu.pe/files-asset/19170477/horna_munoz_daniel.jpg?w=160&f=jpg",
+      "research_groups": "Grupo de Investigación en Seguridad Hídrica y Cambio Climático (SeHClim); Centro de Investigación y Tecnología del Agua - CITA",
+      "degree_centrality": 0.066,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.227,
+      "pagerank": 0.01,
+      "clustering": 0.287,
+      "degree": 6,
+      "color": "#1f77b4",
+      "size": 25
+    },
+    {
+      "id": 38,
+      "name": "Rocío Hoyos Diaz",
+      "department": "Departamento de Ciencias",
+      "email": "rhoyos@utec.edu.pe",
+      "research_areas": "",
+      "h_index": 0,
+      "citations": 0,
+      "image_url": "https://cris.utec.edu.pe/files-asset/20164343/hoyos_diaz_rocio.jpg?w=160&f=jpg",
+      "research_groups": "",
+      "degree_centrality": 0.121,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.357,
+      "pagerank": 0.01,
+      "clustering": 0.235,
+      "degree": 11,
+      "color": "#ff7f0e",
+      "size": 25
+    },
+    {
+      "id": 39,
+      "name": "Deyby Huamanchahua Canchanya",
+      "department": "Departamento de Ingeniería Electrónica y Mecatrónica",
+      "email": "dhuamanchahua@utec.edu.pe",
+      "research_areas": "Nivel VII",
+      "h_index": 10,
+      "citations": 381,
+      "image_url": "https://cris.utec.edu.pe/files-asset/19170519/huamanchaua_canchanya_deyby.jpg?w=160&f=jpg",
+      "research_groups": "Grupo de Investigación en Innovación Educativa y Competencia Docente (INECOD); Grupo de Investigación en Robótica, Inteligencia Artificial y Control Avanzado (RIC); Centro de Investigación en Bioingeniería - BIO",
+      "degree_centrality": 0.099,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.198,
+      "pagerank": 0.012,
+      "clustering": 0.46,
+      "degree": 9,
+      "color": "#17becf",
+      "size": 25
+    },
+    {
+      "id": 40,
+      "name": "Dante Inga Narvaez",
+      "department": "Departamento de Ingeniería Electrónica y Mecatrónica",
+      "email": "dinga@utec.edu.pe",
+      "research_areas": "Nivel VI",
+      "h_index": 5,
+      "citations": 59,
+      "image_url": "https://cris.utec.edu.pe/files-asset/19170535/inga_narvaez_dante.jpg?w=160&f=jpg",
+      "research_groups": "Grupo de Investigación en Robótica, Inteligencia Artificial y Control Avanzado (RIC); Centro de Investigación en Bioingeniería - BIO",
+      "degree_centrality": 0.099,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.182,
+      "pagerank": 0.013,
+      "clustering": 0.5,
+      "degree": 9,
+      "color": "#17becf",
+      "size": 25
+    },
+    {
+      "id": 41,
+      "name": "Elvis Jara Alegria",
+      "department": "Departamento de Ingeniería Electrónica y Mecatrónica",
+      "email": "ejara@utec.edu.pe",
+      "research_areas": "Automatización; análisis de datos; modelamiento de sistemas no lineales; identificación de sistemas; ; inteligencia artificial; aprendizaje automático",
+      "h_index": 4,
+      "citations": 41,
+      "image_url": "https://cris.utec.edu.pe/files-asset/19170555/jara_alegria_elvis.jpg?w=160&f=jpg",
+      "research_groups": "Grupo de Investigación en Robótica, Inteligencia Artificial y Control Avanzado (RIC)",
+      "degree_centrality": 0.099,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.189,
+      "pagerank": 0.012,
+      "clustering": 0.472,
+      "degree": 9,
+      "color": "#17becf",
+      "size": 25
+    },
+    {
+      "id": 42,
+      "name": "Enrique Juarez Aquino",
+      "department": "Departamento de Ingeniería Civil y Ambiental",
+      "email": "ejuarez@utec.edu.pe",
+      "research_areas": "Gestión de proyectos de construcción con un enfoque en la Entrega Integrada de Proyectos (IPD) con el apoyo de LEAN; PMO",
+      "h_index": 0,
+      "citations": 0,
+      "image_url": "https://cris.utec.edu.pe/files-asset/21819856/juarez_aquino_enrique.jpg?w=160&f=jpg",
+      "research_groups": "",
+      "degree_centrality": 0.066,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.229,
+      "pagerank": 0.008,
+      "clustering": 0.248,
+      "degree": 6,
+      "color": "#1f77b4",
+      "size": 18
+    },
+    {
+      "id": 43,
+      "name": "Wangdo Kim",
+      "department": "Departamento de Ingeniería Mecánica y de la Energía",
+      "email": "mwdkim@utec.edu.pe",
+      "research_areas": "Biomechanics; Bioengineering; Rehabilitation; Biocemánica ortopédica",
+      "h_index": 14,
+      "citations": 565,
+      "image_url": "https://cris.utec.edu.pe/files-asset/19170595/kim_wangdo.jpg?w=160&f=jpg",
+      "research_groups": "Centro de Investigación en Bioingeniería - BIO",
+      "degree_centrality": 0.11,
+      "betweenness_centrality": 0.007,
+      "closeness_centrality": 0.423,
+      "pagerank": 0.007,
+      "clustering": 0.324,
+      "degree": 10,
+      "color": "#8c564b",
+      "size": 25
+    },
+    {
+      "id": 44,
+      "name": "Jose Larco Martinelli",
+      "department": "Departamento de Ingeniería Industrial y Gestión de la Ingeniería",
+      "email": "jlarco@utec.edu.pe",
+      "research_areas": "Gestión de operaciones; estudio del comportamiento de las operaciones para modelos de planificación y flujos de trabajo; sistemas logísticos alimentarios; sistemas de distribución del canal tradicional",
+      "h_index": 3,
+      "citations": 92,
+      "image_url": "https://cris.utec.edu.pe/files-asset/19170830/larco_martinelli_jose_antonio.jpg?w=160&f=jpg",
+      "research_groups": "Grupo de Investigación en Analítica de Datos y Ciencias de Decisión (DADS)",
+      "degree_centrality": 0.11,
+      "betweenness_centrality": 0.001,
+      "closeness_centrality": 0.269,
+      "pagerank": 0.016,
+      "clustering": 0.288,
+      "degree": 10,
+      "color": "#e377c2",
+      "size": 25
+    },
+    {
+      "id": 45,
+      "name": "Cristian Lopez Del Alamo",
+      "department": "Departamento de Ciencia de la Computación",
+      "email": "clopezd@utec.edu.pe",
+      "research_areas": "Aprendizaje profundo de geometría; Aprendizaje automático y algorítmica; Procesamiento de imágenes; Data Mining",
+      "h_index": 5,
+      "citations": 100,
+      "image_url": "https://cris.utec.edu.pe/files-asset/19170865/lopez_delalamo_cristian.jpg?w=160&f=jpg",
+      "research_groups": "Grupo de Investigación en Inteligencia Artificial (GINIA); Centro de Investigación en Sostenibilidad Computacional - CompSust",
+      "degree_centrality": 0.143,
+      "betweenness_centrality": 0.022,
+      "closeness_centrality": 0.391,
+      "pagerank": 0.016,
+      "clustering": 0.271,
+      "degree": 13,
+      "color": "#7f7f7f",
+      "size": 25
+    },
+    {
+      "id": 46,
+      "name": "Milagros Lunga Calderón",
+      "department": "Departamento de Negocios Digitales",
+      "email": "mlunga@utec.edu.pe",
+      "research_areas": "Business and Economics; Finanas",
+      "h_index": 0,
+      "citations": 0,
+      "image_url": "https://cris.utec.edu.pe/files-asset/21820262/lunga_calderon_milagros_cecilia.jpg?w=160&f=jpg",
+      "research_groups": "",
+      "degree_centrality": 0.022,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.235,
+      "pagerank": 0.004,
+      "clustering": 0.231,
+      "degree": 2,
+      "color": "#1f77b4",
+      "size": 6
+    },
+    {
+      "id": 47,
+      "name": "José Luis Mantari Laureano",
+      "department": "Departamento de Ciencias",
+      "email": "jmantari@utec.edu.pe",
+      "research_areas": "diseño de productos; simulaciones computacionales; biomecánica; diseño y cálculo estructural en acero y materiales compuestos y plásticos; elementos finitos; elementos discretos; estructuras inteligentes; estrés térmico; estabilidad y seguridad de embarcaciones pesqueras y buques",
+      "h_index": 32,
+      "citations": 3930,
+      "image_url": "https://cris.utec.edu.pe/files-asset/21820910/mantari_laureano_jose_luis.jpg?w=160&f=jpg",
+      "research_groups": "Grupo de Investigación en Diseño de Productos con Simulación Computacional (MSP)",
+      "degree_centrality": 0.154,
+      "betweenness_centrality": 0.059,
+      "closeness_centrality": 0.445,
+      "pagerank": 0.012,
+      "clustering": 0.159,
+      "degree": 14,
+      "color": "#ff7f0e",
+      "size": 25
+    },
+    {
+      "id": 48,
+      "name": "Giancarlo Marcone Flores",
+      "department": "Departamento de Humanidades, Artes y Ciencias Sociales",
+      "email": "gmarcone@utec.edu.pe",
+      "research_areas": "Patrimonio y su gestión participativa; antropología del movimiento e Interacciones interregionales",
+      "h_index": 5,
+      "citations": 47,
+      "image_url": "https://cris.utec.edu.pe/files-asset/24694625/marcone-flores-giancarlo.jpg?w=160&f=jpg",
+      "research_groups": "Centro de Impacto y Responsabilidad Social - CIRSO",
+      "degree_centrality": 0.077,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.256,
+      "pagerank": 0.011,
+      "clustering": 0.235,
+      "degree": 7,
+      "color": "#9467bd",
+      "size": 25
+    },
+    {
+      "id": 49,
+      "name": "Diego Alejandro Milanés Carreño",
+      "department": "Departamento de Ciencias",
+      "email": "dmilanes@utec.edu.pe",
+      "research_areas": "Física experimental de partículas fundamentales; Simetría materia y antimateria; Física de hadrones pesados; Física Computacional",
+      "h_index": 114,
+      "citations": 57680,
+      "image_url": "https://cris.utec.edu.pe/files-asset/25685589/milanes-carrenio-diego-alejandro.jpg?w=160&f=jpg",
+      "research_groups": "Grupo de Investigación en Física Fundamental (GIFF)",
+      "degree_centrality": 0.121,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.354,
+      "pagerank": 0.011,
+      "clustering": 0.25,
+      "degree": 11,
+      "color": "#ff7f0e",
+      "size": 25
+    },
+    {
+      "id": 50,
+      "name": "Rensso Victor Hugo Mora Colque",
+      "department": "Departamento de Ciencia de la Computación",
+      "email": "rmora@utec.edu.pe",
+      "research_areas": "Visión por computadora; Aprendizaje automático; Series temporales",
+      "h_index": 5,
+      "citations": 245,
+      "image_url": "https://cris.utec.edu.pe/files-asset/25783575/mora-colque-rensso-victor-hugo_.jpg?w=160&f=jpg",
+      "research_groups": "",
+      "degree_centrality": 0.121,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.32,
+      "pagerank": 0.011,
+      "clustering": 0.307,
+      "degree": 11,
+      "color": "#7f7f7f",
+      "size": 25
+    },
+    {
+      "id": 51,
+      "name": "Monica Cristina Moreno Brush",
+      "department": "Unknown Department",
+      "email": "",
+      "research_areas": "",
+      "h_index": 0,
+      "citations": 0,
+      "image_url": "https://cris.utec.edu.pe/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png",
+      "research_groups": "Centro de Investigación y Tecnología del Agua - CITA",
+      "degree_centrality": 0.055,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.183,
+      "pagerank": 0.011,
+      "clustering": 0.235,
+      "degree": 5,
+      "color": "#2ca02c",
+      "size": 15
+    },
+    {
+      "id": 52,
+      "name": "Angel Napa Bernuy",
+      "department": "Departamento de Ciencia de la Computación",
+      "email": "anapa@utec.edu.pe",
+      "research_areas": "Algoritmos; Teoría de Grafos; Optimización Combinatoria; Investigación de Operaciones; Matemáticas Discretas",
+      "h_index": 0,
+      "citations": 0,
+      "image_url": "https://cris.utec.edu.pe/files-asset/21850417/napa_bernuy_angel.jpg?w=160&f=jpg",
+      "research_groups": "Grupo de Investigación en Algoritmos, Combinatoria y Teoría de la Computación (ALGCOMB)",
+      "degree_centrality": 0.121,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.37,
+      "pagerank": 0.011,
+      "clustering": 0.289,
+      "degree": 11,
+      "color": "#7f7f7f",
+      "size": 25
+    },
+    {
+      "id": 53,
+      "name": "Julien Noel",
+      "department": "Departamento de Ingeniería Mecánica y de la Energía",
+      "email": "jnoel@utec.edu.pe",
+      "research_areas": "Redes eléctricas inteligentes; Vehículos eléctricos; ciberseguridad para la distribución de energía de la red; ciencia ambiental para el sector energético: transición energética; ingeniería social para la base de la pirámide; Sistemas microelectomecánicos (MEMS); ciencia de los materiales",
+      "h_index": 12,
+      "citations": 403,
+      "image_url": "https://cris.utec.edu.pe/files-asset/19171121/julien_noel.jpg?w=160&f=jpg",
+      "research_groups": "Grupo de investigación en energía y minas",
+      "degree_centrality": 0.121,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.326,
+      "pagerank": 0.014,
+      "clustering": 0.472,
+      "degree": 11,
+      "color": "#8c564b",
+      "size": 25
+    },
+    {
+      "id": 54,
+      "name": "Moises Nuñez Ochoa",
+      "department": "Departamento de Ingeniería Electrónica y Mecatrónica",
+      "email": "mnunez@utec.edu.pe",
+      "research_areas": "MARIA ROSTWOROWSKI II",
+      "h_index": 4,
+      "citations": 108,
+      "image_url": "https://cris.utec.edu.pe/files-asset/19171193/nunez_ochoa_moises.jpg?w=160&f=jpg",
+      "research_groups": "Grupo de Investigación en Sistemas Embebidos, Reconfigurables, Monitoreo Inteligente, y Comunicaciones (SERMIC)",
+      "degree_centrality": 0.099,
+      "betweenness_centrality": 0.001,
+      "closeness_centrality": 0.262,
+      "pagerank": 0.008,
+      "clustering": 0.338,
+      "degree": 9,
+      "color": "#17becf",
+      "size": 25
+    },
+    {
+      "id": 55,
+      "name": "Maria Belén Ortiz García",
+      "department": "Departamento de Ingeniería Industrial y Gestión de la Ingeniería",
+      "email": "mortizg@utec.edu.pe",
+      "research_areas": "Sistemas Integrados de Gestión; Gestión por Procesos y herramientas de Mejora Continua; Ingeniería Cognitiva/Factores Humanos.",
+      "h_index": 2,
+      "citations": 7,
+      "image_url": "https://cris.utec.edu.pe/files-asset/19171246/ortiz_garcia_maria_belen.jpg?w=160&f=jpg",
+      "research_groups": "",
+      "degree_centrality": 0.077,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.252,
+      "pagerank": 0.007,
+      "clustering": 0.257,
+      "degree": 7,
+      "color": "#e377c2",
+      "size": 23
+    },
+    {
+      "id": 56,
+      "name": "Hermes Pantoja Carhuavilca",
+      "department": "Departamento de Ciencias",
+      "email": "hpantoja@utec.edu.pe",
+      "research_areas": "Carlos Monge IV",
+      "h_index": 0,
+      "citations": 0,
+      "image_url": "https://cris.utec.edu.pe/files-asset/19171263/pantoja_carhuavilca_hermes.jpg?w=160&f=jpg",
+      "research_groups": "",
+      "degree_centrality": 0.121,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.357,
+      "pagerank": 0.01,
+      "clustering": 0.235,
+      "degree": 11,
+      "color": "#ff7f0e",
+      "size": 25
+    },
+    {
+      "id": 57,
+      "name": "Carolina Parada Quinaya",
+      "department": "Departamento de Bioingeniería e Ingeniería Química",
+      "email": "dparada@utec.edu.pe",
+      "research_areas": "Compuestos sostenibles; polímeros lignocelulósicos compuestos de residuos agrícolas; biomateriales y bioplásticos; revestimientos de polímeros bioactivos; ingeniería de bioprocesos; mejora del proceso de electrodeposición de cobre utilizando soluciones libres de cianuro",
+      "h_index": 6,
+      "citations": 71,
+      "image_url": "https://cris.utec.edu.pe/files-asset/19171281/parada_quinaya_diana.jpg?w=160&f=jpg",
+      "research_groups": "",
+      "degree_centrality": 0.11,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.367,
+      "pagerank": 0.011,
+      "clustering": 0.276,
+      "degree": 10,
+      "color": "#bcbd22",
+      "size": 25
+    },
+    {
+      "id": 58,
+      "name": "Alexander Peña Nevado",
+      "department": "Departamento de Ciencias",
+      "email": "apena@utec.edu.pe",
+      "research_areas": "",
+      "h_index": 0,
+      "citations": 0,
+      "image_url": "https://cris.utec.edu.pe/files-asset/19171302/pena_nevado_alexander.jpg?w=160&f=jpg",
+      "research_groups": "",
+      "degree_centrality": 0.121,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.357,
+      "pagerank": 0.01,
+      "clustering": 0.235,
+      "degree": 11,
+      "color": "#ff7f0e",
+      "size": 25
+    },
+    {
+      "id": 59,
+      "name": "Sergio Quispe Rodriguez",
+      "department": "Departamento de Ciencias",
+      "email": "squispe@utec.edu.pe",
+      "research_areas": "",
+      "h_index": 0,
+      "citations": 0,
+      "image_url": "https://cris.utec.edu.pe/files-asset/19171327/quispe_rodriguez_sergio.jpg?w=160&f=jpg",
+      "research_groups": "",
+      "degree_centrality": 0.121,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.357,
+      "pagerank": 0.01,
+      "clustering": 0.235,
+      "degree": 11,
+      "color": "#ff7f0e",
+      "size": 25
+    },
+    {
+      "id": 60,
+      "name": "Elmer Ramirez Quiroz",
+      "department": "Departamento de Ingeniería Mecánica y de la Energía",
+      "email": "eramirez@utec.edu.pe",
+      "research_areas": "",
+      "h_index": 2,
+      "citations": 9,
+      "image_url": "https://cris.utec.edu.pe/files-asset/19171353/ramirez_quiroz_elmer.jpg?w=160&f=jpg",
+      "research_groups": "Grupo de investigación en energía y minas",
+      "degree_centrality": 0.121,
+      "betweenness_centrality": 0.001,
+      "closeness_centrality": 0.395,
+      "pagerank": 0.013,
+      "clustering": 0.448,
+      "degree": 11,
+      "color": "#8c564b",
+      "size": 25
+    },
+    {
+      "id": 61,
+      "name": "Oscar Ramos Ponce",
+      "department": "Departamento de Ingeniería Electrónica y Mecatrónica",
+      "email": "oramos@utec.edu.pe",
+      "research_areas": "Machine learning y deep learning a sistemas inteligentes; robótica autónoma; ontrol de movimiento para robots móviles y redundantes con base en visión computacional y deep reinforcement learning.",
+      "h_index": 11,
+      "citations": 600,
+      "image_url": "https://cris.utec.edu.pe/files-asset/21816239/ramos_ponce_oscar.jpg?w=160&f=jpg",
+      "research_groups": "Grupo de Investigación en Robótica, Inteligencia Artificial y Control Avanzado (RIC)",
+      "degree_centrality": 0.099,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.198,
+      "pagerank": 0.012,
+      "clustering": 0.46,
+      "degree": 9,
+      "color": "#17becf",
+      "size": 25
+    },
+    {
+      "id": 62,
+      "name": "José Ramos Saravia",
+      "department": "Departamento de Ingeniería Mecánica y de la Energía",
+      "email": "jramos@utec.edu.pe",
+      "research_areas": "Termodinámica; Valorización de Residuos; Gasificación de Residuos Sólidos; Gasificación con Plasma; Eficiencia Energética Térmica; Producción de Hidrógeno con Energías; Sistemas Energéticos Térmicos; Procesos Térmicos; Pilas de Combustible accionados con Hidrógeno; Integración de Energías Renovables; Sistemas Energéticos de Poligeneración; Cogeneración; Trigeneración; Centrales de Ciclo Combinado; Centrales Térmicas Convencionales",
+      "h_index": 7,
+      "citations": 630,
+      "image_url": "https://cris.utec.edu.pe/files-asset/19171379/ramos_saravia_jose.jpg?w=160&f=jpg",
+      "research_groups": "Grupo de investigación en energía y minas; Grupo de Investigación en Diseño de Productos con Simulación Computacional (MSP)",
+      "degree_centrality": 0.132,
+      "betweenness_centrality": 0.02,
+      "closeness_centrality": 0.518,
+      "pagerank": 0.016,
+      "clustering": 0.414,
+      "degree": 12,
+      "color": "#8c564b",
+      "size": 25
+    },
+    {
+      "id": 63,
+      "name": "Alejandra Ratti Parandelli",
+      "department": "Departamento de Bioingeniería e Ingeniería Química",
+      "email": "aratti@utec.edu.pe",
+      "research_areas": "Ciencia y cocina; bioquímica clínica; microbiología; proteómica; sistemas de expresión en levaduras; diseño de enzimas recombiantes; ingeniería genética; Investigación e innovación en métodos de enseñanza y de evaluación en universidades",
+      "h_index": 0,
+      "citations": 0,
+      "image_url": "https://cris.utec.edu.pe/files-asset/19171395/ratti_parandelli_alejandra.jpg?w=160&f=jpg",
+      "research_groups": "Centro de Investigación en Bioingeniería - BIO",
+      "degree_centrality": 0.11,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.376,
+      "pagerank": 0.009,
+      "clustering": 0.242,
+      "degree": 10,
+      "color": "#bcbd22",
+      "size": 25
+    },
+    {
+      "id": 64,
+      "name": "Pedro Rau Lavado",
+      "department": "Departamento de Ingeniería Civil y Ambiental",
+      "email": "prau@utec.edu.pe",
+      "research_areas": "Procesos hidrológicos.; hidrología de montaña; hidrología de zonas áridas; hidroclimatología; impactos de la variabilidad y el cambio climático; ingeniería hidrológica; administracion del agua",
+      "h_index": 12,
+      "citations": 524,
+      "image_url": "https://cris.utec.edu.pe/files-asset/19171498/rau_lavado_pedro.jpg?w=160&f=jpg",
+      "research_groups": "Grupo de Investigación en Seguridad Hídrica y Cambio Climático (SeHClim); Centro de Investigación y Tecnología del Agua - CITA",
+      "degree_centrality": 0.066,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.227,
+      "pagerank": 0.011,
+      "clustering": 0.286,
+      "degree": 6,
+      "color": "#1f77b4",
+      "size": 25
+    },
+    {
+      "id": 65,
+      "name": "Jose Renom Andara",
+      "department": "Departamento de Ciencias",
+      "email": "jrenom@utec.edu.pe",
+      "research_areas": "Teoría de grafos; Estadística aplicada; Probabilidades; Simulación y análisis de datos",
+      "h_index": 7,
+      "citations": 173,
+      "image_url": "https://cris.utec.edu.pe/files-asset/21816332/renom_andara_jose.jpg?w=160&f=jpg",
+      "research_groups": "",
+      "degree_centrality": 0.121,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.353,
+      "pagerank": 0.011,
+      "clustering": 0.25,
+      "degree": 11,
+      "color": "#ff7f0e",
+      "size": 25
+    },
+    {
+      "id": 66,
+      "name": "Alejandro Rios Cuadros",
+      "department": "Departamento de Ciencias",
+      "email": "arios@utec.edu.pe",
+      "research_areas": "Nanomateriales y Semiconductores",
+      "h_index": 0,
+      "citations": 0,
+      "image_url": "https://cris.utec.edu.pe/files-asset/19171519/rios_cuadros_alejandro.jpg?w=160&f=jpg",
+      "research_groups": "",
+      "degree_centrality": 0.121,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.357,
+      "pagerank": 0.01,
+      "clustering": 0.235,
+      "degree": 11,
+      "color": "#ff7f0e",
+      "size": 25
+    },
+    {
+      "id": 67,
+      "name": "Juan Carlos Rodríguez Reyes",
+      "department": "Departamento de Bioingeniería e Ingeniería Química",
+      "email": "jcrodriguez@utec.edu.pe",
+      "research_areas": "Conservación del Patrimonio; Nanomateriales; Procesamiento de minerales; Metalurgia extractiva",
+      "h_index": 17,
+      "citations": 713,
+      "image_url": "https://cris.utec.edu.pe/files-asset/19171551/rodriguez_reyes_juancarlos.jpg?w=160&f=jpg",
+      "research_groups": "Grupo de investigación en energía y minas; Centro de Investigación y Conservación del Patrimonio",
+      "degree_centrality": 0.198,
+      "betweenness_centrality": 0.056,
+      "closeness_centrality": 0.481,
+      "pagerank": 0.015,
+      "clustering": 0.158,
+      "degree": 18,
+      "color": "#bcbd22",
+      "size": 25
+    },
+    {
+      "id": 68,
+      "name": "Ursula Rodriguez Zuñiga",
+      "department": "Departamento de Bioingeniería e Ingeniería Química",
+      "email": "urodriguez@utec.edu.pe",
+      "research_areas": "Análisis Espectroscópicas; Ingeniería Ambiental; Bioprocesos; Ingeniería bioquímica; Fermentación para producción de enzimas; Biocombustibles",
+      "h_index": 10,
+      "citations": 380,
+      "image_url": "https://cris.utec.edu.pe/files-asset/19171564/rodriguez_zuniga_ursula.jpg?w=160&f=jpg",
+      "research_groups": "",
+      "degree_centrality": 0.11,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.374,
+      "pagerank": 0.009,
+      "clustering": 0.25,
+      "degree": 10,
+      "color": "#bcbd22",
+      "size": 25
+    },
+    {
+      "id": 69,
+      "name": "Harry Gustavo Saavedra Espinoza",
+      "department": "Departamento de Bioingeniería e Ingeniería Química",
+      "email": "hsaavedra@utec.edu.pe",
+      "research_areas": "Biofísica de proteínas; sistemas biológicos para combatir enfermedades; Machine Learning",
+      "h_index": 6,
+      "citations": 387,
+      "image_url": "https://cris.utec.edu.pe/files-asset/19171593/saavedra_espinoza_harry_gustavo.jpg?w=160&f=jpg",
+      "research_groups": "Centro de Investigación en Bioingeniería - BIO",
+      "degree_centrality": 0.11,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.367,
+      "pagerank": 0.011,
+      "clustering": 0.276,
+      "degree": 10,
+      "color": "#bcbd22",
+      "size": 25
+    },
+    {
+      "id": 70,
+      "name": "Heider Sánchez Enriquez",
+      "department": "Departamento de Ciencia de la Computación",
+      "email": "hsanchez@utec.edu.pe",
+      "research_areas": "Análisis y desarrollo de software; minería de datos; inteligencia artificial",
+      "h_index": 4,
+      "citations": 43,
+      "image_url": "https://cris.utec.edu.pe/files-asset/21849976/sanchez_enriquez_heider.jpg?w=160&f=jpg",
+      "research_groups": "",
+      "degree_centrality": 0.121,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.343,
+      "pagerank": 0.011,
+      "clustering": 0.307,
+      "degree": 11,
+      "color": "#7f7f7f",
+      "size": 25
+    },
+    {
+      "id": 71,
+      "name": "Nedher Sanchez Ramirez",
+      "department": "Departamento de Ciencias",
+      "email": "nsanchezr@utec.edu.pe",
+      "research_areas": "Ciencias químicas; Electroquímica en particular baterías de ion litio y líquidos iónicos",
+      "h_index": 9,
+      "citations": 353,
+      "image_url": "https://cris.utec.edu.pe/files-asset/20164583/sanchez_ramirez_nedher.jpg?w=160&f=jpg",
+      "research_groups": "",
+      "degree_centrality": 0.121,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.353,
+      "pagerank": 0.011,
+      "clustering": 0.25,
+      "degree": 11,
+      "color": "#ff7f0e",
+      "size": 25
+    },
+    {
+      "id": 72,
+      "name": "Monica C. Santa-Maria",
+      "department": "Departamento de Ingeniería Civil y Ambiental",
+      "email": "msantamaria@utec.edu.pe",
+      "research_areas": "Barcoding, metabarcoding y ADN ambiental para monitoreo ambiental; Ingeniería de sistemas biológicos para aplicaciones ambientales; Epidemiología basada en aguas residuales",
+      "h_index": 11,
+      "citations": 369,
+      "image_url": "https://cris.utec.edu.pe/files-asset/19171063/santamaria_fuster_monica.jpg?w=160&f=jpg",
+      "research_groups": "Centro de Investigación y Tecnología del Agua - CITA",
+      "degree_centrality": 0.066,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.228,
+      "pagerank": 0.009,
+      "clustering": 0.261,
+      "degree": 6,
+      "color": "#1f77b4",
+      "size": 25
+    },
+    {
+      "id": 73,
+      "name": "José Santiváñez Guarniz",
+      "department": "Unknown Department",
+      "email": "jsantivanez@utec.edu.pe",
+      "research_areas": "",
+      "h_index": 0,
+      "citations": 0,
+      "image_url": "https://cris.utec.edu.pe/files-asset/24269202/santi.png?w=160&f=jpg",
+      "research_groups": "",
+      "degree_centrality": 0.055,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.183,
+      "pagerank": 0.011,
+      "clustering": 0.235,
+      "degree": 5,
+      "color": "#2ca02c",
+      "size": 15
+    },
+    {
+      "id": 74,
+      "name": "Yamilet Rosario Serrano Llerena",
+      "department": "Departamento de Ciencia de Datos y Sistemas de Información",
+      "email": "yserrano@utec.edu.pe",
+      "research_areas": "Ingenieria de software; Computación Sostenible; Inteligencia Artificial; Ciencia de Datos; Proyectos relacionados con las áreas de Ciencia de Computación",
+      "h_index": 3,
+      "citations": 21,
+      "image_url": "https://cris.utec.edu.pe/files-asset/19171627/serrano_llerena_yamilet.jpg?w=160&f=jpg",
+      "research_groups": "Grupo de Investigación en Inteligencia Artificial (GINIA); Grupo de Investigación en Analítica de Datos y Ciencias de Decisión (DADS); Centro de Investigación en Sostenibilidad Computacional - CompSust",
+      "degree_centrality": 0.11,
+      "betweenness_centrality": 0.05,
+      "closeness_centrality": 0.363,
+      "pagerank": 0.016,
+      "clustering": 0.234,
+      "degree": 10,
+      "color": "#d62728",
+      "size": 25
+    },
+    {
+      "id": 75,
+      "name": "Igor Siveroni Salinas",
+      "department": "Departamento de Ciencia de la Computación",
+      "email": "isiveroni@utec.edu.pe",
+      "research_areas": "Métodos formales; computación científica y aplicada; análisis filodinámico; l estudio de la dinámica de las enfermedades infecciosas",
+      "h_index": 22,
+      "citations": 9853,
+      "image_url": "https://cris.utec.edu.pe/files-asset/24103768/igor.png?w=160&f=jpg",
+      "research_groups": "Centro de Investigación en Sostenibilidad Computacional - CompSust",
+      "degree_centrality": 0.121,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.378,
+      "pagerank": 0.009,
+      "clustering": 0.257,
+      "degree": 11,
+      "color": "#7f7f7f",
+      "size": 25
+    },
+    {
+      "id": 76,
+      "name": "Aurea Rossy Soriano Vargas",
+      "department": "Departamento de Ciencia de la Computación",
+      "email": "asoriano@utec.edu.pe",
+      "research_areas": "Inteligencia artificial; análisis visual; ciencia de datos; representación de datos; aprendizaje automático; aprendizaje profundo",
+      "h_index": 7,
+      "citations": 131,
+      "image_url": "https://cris.utec.edu.pe/files-asset/26454982/soriano-vargas-aurea-rossy.jpg?w=160&f=jpg",
+      "research_groups": "",
+      "degree_centrality": 0.121,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.329,
+      "pagerank": 0.01,
+      "clustering": 0.29,
+      "degree": 11,
+      "color": "#7f7f7f",
+      "size": 25
+    },
+    {
+      "id": 77,
+      "name": "Enrique Stiglich Labarthe",
+      "department": "Facultad de Negocios",
+      "email": "estiglich@utec.edu.pe",
+      "research_areas": "Transformación de los modelos educativos; consultoría empresarial; finanzas corporativas",
+      "h_index": 0,
+      "citations": 0,
+      "image_url": "https://cris.utec.edu.pe/files-asset/23816640/Dise_o_sin_t_tulo_49_.png?w=160&f=jpg",
+      "research_groups": "",
+      "degree_centrality": 0.0,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.0,
+      "pagerank": 0.002,
+      "clustering": 0,
+      "degree": 0,
+      "color": "#ff7f0e",
+      "size": 5
+    },
+    {
+      "id": 78,
+      "name": "Matteo Stiglich Labarthe",
+      "department": "Departamento de Humanidades, Artes y Ciencias Sociales",
+      "email": "mstiglich@utec.edu.pe",
+      "research_areas": "Economía política de la planificación urbana; planificación de infraestructura y transporte urbano; historia urbana contemporánea",
+      "h_index": 2,
+      "citations": 8,
+      "image_url": "https://cris.utec.edu.pe/files-asset/24097563/stiglich-labarthe-matteo.jpg?w=160&f=jpg",
+      "research_groups": "Centro de Impacto y Responsabilidad Social - CIRSO",
+      "degree_centrality": 0.077,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.234,
+      "pagerank": 0.011,
+      "clustering": 0.245,
+      "degree": 7,
+      "color": "#9467bd",
+      "size": 23
+    },
+    {
+      "id": 79,
+      "name": "Francisco Tarazona Vásquez",
+      "department": "Departamento de Bioingeniería e Ingeniería Química",
+      "email": "ftarazona@utec.edu.pe",
+      "research_areas": "Simulación molecular; análisis termodinámicos; imulación e ingeniería de procesos",
+      "h_index": 7,
+      "citations": 207,
+      "image_url": "https://cris.utec.edu.pe/files-asset/19171653/tarazona_vasquez_francisco.jpg?w=160&f=jpg",
+      "research_groups": "",
+      "degree_centrality": 0.11,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.367,
+      "pagerank": 0.011,
+      "clustering": 0.276,
+      "degree": 10,
+      "color": "#bcbd22",
+      "size": 25
+    },
+    {
+      "id": 80,
+      "name": "Jimmy Tarrillo Olano",
+      "department": "Departamento de Ingeniería Electrónica y Mecatrónica",
+      "email": "jtarrillo@utec.edu.pe",
+      "research_areas": "Tolerancia a fallos en FPGAs; efectos de radiación en circuitos digitales; sistemas reconfigurables; redes de sensores inalámbricos; adquisición de señales; sistemas embebidos",
+      "h_index": 7,
+      "citations": 120,
+      "image_url": "https://cris.utec.edu.pe/files-asset/19171742/tarrillo_olano_jimmy.jpg?w=160&f=jpg",
+      "research_groups": "Grupo de Investigación en Sistemas Embebidos, Reconfigurables, Monitoreo Inteligente, y Comunicaciones (SERMIC)",
+      "degree_centrality": 0.099,
+      "betweenness_centrality": 0.001,
+      "closeness_centrality": 0.247,
+      "pagerank": 0.008,
+      "clustering": 0.35,
+      "degree": 9,
+      "color": "#17becf",
+      "size": 25
+    },
+    {
+      "id": 81,
+      "name": "Jorge Tipe Villanueva",
+      "department": "Departamento de Ciencia de la Computación",
+      "email": "jtipe@utec.edu..pe",
+      "research_areas": "Matemática aplicada; Informática; Métodos de Demostración; Estructuras Discretas; Conteo y Teoría de Grafos",
+      "h_index": 0,
+      "citations": 0,
+      "image_url": "https://cris.utec.edu.pe/files-asset/21817571/tipe_villanueva_jorge.jpg?w=160&f=jpg",
+      "research_groups": "Grupo de Investigación en Algoritmos, Combinatoria y Teoría de la Computación (ALGCOMB)",
+      "degree_centrality": 0.121,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.37,
+      "pagerank": 0.011,
+      "clustering": 0.289,
+      "degree": 11,
+      "color": "#7f7f7f",
+      "size": 25
+    },
+    {
+      "id": 82,
+      "name": "David Wilfredo Torres Escobar",
+      "department": "Unknown Department",
+      "email": "dtorres@utec.edu.pe",
+      "research_areas": "biodiversidad; servicios ecosistémicos; gestión; capital natural; mercados ambientales",
+      "h_index": 0,
+      "citations": 0,
+      "image_url": "https://cris.utec.edu.pe/files-asset/25754099/torres-escobar-david-wilfredo.jpg?w=160&f=jpg",
+      "research_groups": "",
+      "degree_centrality": 0.055,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.183,
+      "pagerank": 0.011,
+      "clustering": 0.235,
+      "degree": 5,
+      "color": "#2ca02c",
+      "size": 15
+    },
+    {
+      "id": 83,
+      "name": "Julio Ernesto Valdivia Silva",
+      "department": "Departamento de Bioingeniería e Ingeniería Química",
+      "email": "jvaldivias@utec.edu.pe",
+      "research_areas": "Astrobiología; inmunología del cáncer (oncología); regeneración de tejidos y biología de células madre; biología sintética; microdispositivos; tecnología de laboratorio en un chip.",
+      "h_index": 10,
+      "citations": 322,
+      "image_url": "https://cris.utec.edu.pe/files-asset/19171765/valdivia_silva_julio.jpg?w=160&f=jpg",
+      "research_groups": "Centro de Investigación en Bioingeniería - BIO",
+      "degree_centrality": 0.11,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.374,
+      "pagerank": 0.009,
+      "clustering": 0.25,
+      "degree": 10,
+      "color": "#bcbd22",
+      "size": 25
+    },
+    {
+      "id": 84,
+      "name": "Elba Rosaura Vazques Arrieta",
+      "department": "Departamento de Ingeniería Civil y Ambiental",
+      "email": "rvasqueza@utec.edu.pe",
+      "research_areas": "Desarrollo de cementos de bajo carbono; ingeniería metalúrgica",
+      "h_index": 0,
+      "citations": 0,
+      "image_url": "https://cris.utec.edu.pe/files-asset/24148806/vazques-arrieta-rosaura.jpg?w=160&f=jpg",
+      "research_groups": "Centro de Investigación del Cemento y Concreto - CIC",
+      "degree_centrality": 0.066,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.229,
+      "pagerank": 0.008,
+      "clustering": 0.248,
+      "degree": 6,
+      "color": "#1f77b4",
+      "size": 18
+    },
+    {
+      "id": 85,
+      "name": "Emir Augusto Vela Saavedra",
+      "department": "Departamento de Ingeniería Mecánica y de la Energía",
+      "email": "evela@utec.edu.pe",
+      "research_areas": "Biomecánica; Robótica para rehabilitación y asistencia; MicroRobótica; Dispositivos sensoriales",
+      "h_index": 10,
+      "citations": 470,
+      "image_url": "https://cris.utec.edu.pe/files-asset/19171783/vela_saavedra_emir_augusto.jpg?w=160&f=jpg",
+      "research_groups": "Centro de Investigación en Bioingeniería - BIO",
+      "degree_centrality": 0.11,
+      "betweenness_centrality": 0.007,
+      "closeness_centrality": 0.423,
+      "pagerank": 0.007,
+      "clustering": 0.324,
+      "degree": 10,
+      "color": "#8c564b",
+      "size": 25
+    },
+    {
+      "id": 86,
+      "name": "Rafael Vera Pomalaza",
+      "department": "Departamento de Ingeniería Mecánica y de la Energía",
+      "email": "rvera@utec.edu.pe",
+      "research_areas": "Energías renovables; sistemas eléctricos; electrotecnia industrial",
+      "h_index": 0,
+      "citations": 0,
+      "image_url": "https://cris.utec.edu.pe/files-asset/19171819/vera_pomalaza_rafael.jpg?w=160&f=jpg",
+      "research_groups": "Grupo de investigación en energía y minas",
+      "degree_centrality": 0.121,
+      "betweenness_centrality": 0.001,
+      "closeness_centrality": 0.395,
+      "pagerank": 0.013,
+      "clustering": 0.441,
+      "degree": 11,
+      "color": "#8c564b",
+      "size": 25
+    },
+    {
+      "id": 87,
+      "name": "Eunice Villicaña Ortiz",
+      "department": "Departamento de Ingeniería Mecánica y de la Energía",
+      "email": "evillicana@utec.edu.pe",
+      "research_areas": "Energías renovables; Eficiencia energética; Ingeniería electrónica",
+      "h_index": 7,
+      "citations": 140,
+      "image_url": "https://cris.utec.edu.pe/files-asset/19171837/villicana_ortiz_eunice.jpg?w=160&f=jpg",
+      "research_groups": "Grupo de investigación en energía y minas",
+      "degree_centrality": 0.121,
+      "betweenness_centrality": 0.001,
+      "closeness_centrality": 0.395,
+      "pagerank": 0.013,
+      "clustering": 0.448,
+      "degree": 11,
+      "color": "#8c564b",
+      "size": 25
+    },
+    {
+      "id": 88,
+      "name": "Akira Armando Wong Sato",
+      "department": "Unknown Department",
+      "email": "awong@utec.edu.pe",
+      "research_areas": "Ecología; Interacciones ecológicas; Biología de Conservación; Dinámica Forestal",
+      "h_index": 4,
+      "citations": 46,
+      "image_url": "https://cris.utec.edu.pe/files-asset/26455000/wong-sato-akira-armando-2.jpg?w=160&f=jpg",
+      "research_groups": "",
+      "degree_centrality": 0.055,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.162,
+      "pagerank": 0.012,
+      "clustering": 0.248,
+      "degree": 5,
+      "color": "#2ca02c",
+      "size": 19
+    },
+    {
+      "id": 89,
+      "name": "Romina Perla Yalonetzky Mankevich",
+      "department": "Departamento de Humanidades, Artes y Ciencias Sociales",
+      "email": "ryalonetzky@utec.edu.pe",
+      "research_areas": "Sociología; Filosofía; Minorías religiosas",
+      "h_index": 1,
+      "citations": 5,
+      "image_url": "https://cris.utec.edu.pe/files-asset/21816575/yalonetzky_mankevich_romina_perla_.jpg?w=160&f=jpg",
+      "research_groups": "Centro de Impacto y Responsabilidad Social - CIRSO",
+      "degree_centrality": 0.077,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.234,
+      "pagerank": 0.011,
+      "clustering": 0.245,
+      "degree": 7,
+      "color": "#9467bd",
+      "size": 22
+    },
+    {
+      "id": 90,
+      "name": "Katia Zegarra Sierra",
+      "department": "Departamento de Ciencias",
+      "email": "kzegarras@utec.edu.pe",
+      "research_areas": "Física y óptica aplicada; Caracterización óptica de materiales semiconductores; Dinámica de sistemas",
+      "h_index": 1,
+      "citations": 4,
+      "image_url": "https://cris.utec.edu.pe/files-asset/19171861/zegarra_sierra_katia.jpg?w=160&f=jpg",
+      "research_groups": "",
+      "degree_centrality": 0.121,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.357,
+      "pagerank": 0.01,
+      "clustering": 0.235,
+      "degree": 11,
+      "color": "#ff7f0e",
+      "size": 25
+    },
+    {
+      "id": 91,
+      "name": "Carlos Zorrilla Aranguren",
+      "department": "Departamento de Humanidades, Artes y Ciencias Sociales",
+      "email": "czorrilla@utec.edu.pe",
+      "research_areas": "Comunicación social; Marketing y Comunicaciones; Sociología de las Organizaciones",
+      "h_index": 0,
+      "citations": 0,
+      "image_url": "https://cris.utec.edu.pe/files-asset/19489162/zorrilla_aranguren_carlos.jpg?w=160&f=jpg",
+      "research_groups": "",
+      "degree_centrality": 0.077,
+      "betweenness_centrality": 0.0,
+      "closeness_centrality": 0.256,
+      "pagerank": 0.011,
+      "clustering": 0.235,
+      "degree": 7,
+      "color": "#9467bd",
+      "size": 21
+    }
+  ],
+  "edges": [
+    {
+      "source": 0,
+      "target": 3,
+      "weight": 0.5,
+      "type": "research_group"
+    },
+    {
+      "source": 0,
+      "target": 17,
+      "weight": 0.5,
+      "type": "research_group"
+    },
+    {
+      "source": 0,
+      "target": 26,
+      "weight": 0.5,
+      "type": "research_group"
+    },
+    {
+      "source": 0,
+      "target": 34,
+      "weight": 0.5,
+      "type": "research_group"
+    },
+    {
+      "source": 0,
+      "target": 35,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 0,
+      "target": 44,
+      "weight": 0.5,
+      "type": "research_group"
+    },
+    {
+      "source": 0,
+      "target": 46,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 0,
+      "target": 74,
+      "weight": 0.5,
+      "type": "research_group"
+    },
+    {
+      "source": 1,
+      "target": 18,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 1,
+      "target": 20,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 1,
+      "target": 36,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 1,
+      "target": 48,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 1,
+      "target": 78,
+      "weight": 0.5,
+      "type": "department;citation_similarity"
+    },
+    {
+      "source": 1,
+      "target": 89,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 1,
+      "target": 91,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "weight": 0.8,
+      "type": "department;research_group"
+    },
+    {
+      "source": 2,
+      "target": 8,
+      "weight": 1.3,
+      "type": "department;research_group"
+    },
+    {
+      "source": 2,
+      "target": 15,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 2,
+      "target": 43,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 2,
+      "target": 47,
+      "weight": 0.5,
+      "type": "research_group"
+    },
+    {
+      "source": 2,
+      "target": 53,
+      "weight": 0.8,
+      "type": "department;research_group"
+    },
+    {
+      "source": 2,
+      "target": 60,
+      "weight": 1.0,
+      "type": "department;research_group;citation_similarity"
+    },
+    {
+      "source": 2,
+      "target": 62,
+      "weight": 1.3,
+      "type": "department;research_group"
+    },
+    {
+      "source": 2,
+      "target": 67,
+      "weight": 0.5,
+      "type": "research_group"
+    },
+    {
+      "source": 2,
+      "target": 85,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 2,
+      "target": 86,
+      "weight": 0.8,
+      "type": "department;research_group"
+    },
+    {
+      "source": 2,
+      "target": 87,
+      "weight": 0.8,
+      "type": "department;research_group"
+    },
+    {
+      "source": 3,
+      "target": 11,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 3,
+      "target": 17,
+      "weight": 0.8,
+      "type": "department;research_group"
+    },
+    {
+      "source": 3,
+      "target": 19,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 3,
+      "target": 26,
+      "weight": 0.8,
+      "type": "department;research_group"
+    },
+    {
+      "source": 3,
+      "target": 29,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 3,
+      "target": 34,
+      "weight": 0.5,
+      "type": "research_group"
+    },
+    {
+      "source": 3,
+      "target": 44,
+      "weight": 1.0,
+      "type": "department;research_group;citation_similarity"
+    },
+    {
+      "source": 3,
+      "target": 55,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 3,
+      "target": 74,
+      "weight": 0.7,
+      "type": "research_group;citation_similarity"
+    },
+    {
+      "source": 4,
+      "target": 12,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 4,
+      "target": 13,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 4,
+      "target": 27,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 4,
+      "target": 39,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 4,
+      "target": 40,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 4,
+      "target": 41,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 4,
+      "target": 54,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 4,
+      "target": 61,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 4,
+      "target": 80,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 5,
+      "target": 8,
+      "weight": 0.8,
+      "type": "department;research_group"
+    },
+    {
+      "source": 5,
+      "target": 15,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 5,
+      "target": 43,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 5,
+      "target": 53,
+      "weight": 0.8,
+      "type": "department;research_group"
+    },
+    {
+      "source": 5,
+      "target": 60,
+      "weight": 0.8,
+      "type": "department;research_group"
+    },
+    {
+      "source": 5,
+      "target": 62,
+      "weight": 0.8,
+      "type": "department;research_group"
+    },
+    {
+      "source": 5,
+      "target": 67,
+      "weight": 0.5,
+      "type": "research_group"
+    },
+    {
+      "source": 5,
+      "target": 85,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 5,
+      "target": 86,
+      "weight": 0.8,
+      "type": "department;research_group"
+    },
+    {
+      "source": 5,
+      "target": 87,
+      "weight": 0.8,
+      "type": "department;research_group"
+    },
+    {
+      "source": 6,
+      "target": 14,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 6,
+      "target": 23,
+      "weight": 0.5,
+      "type": "department;citation_similarity"
+    },
+    {
+      "source": 6,
+      "target": 25,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 6,
+      "target": 57,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 6,
+      "target": 63,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 6,
+      "target": 67,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 6,
+      "target": 68,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 6,
+      "target": 69,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 6,
+      "target": 79,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 6,
+      "target": 83,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 7,
+      "target": 10,
+      "weight": 0.8,
+      "type": "department;research_group"
+    },
+    {
+      "source": 7,
+      "target": 24,
+      "weight": 0.7,
+      "type": "research_group;citation_similarity"
+    },
+    {
+      "source": 7,
+      "target": 37,
+      "weight": 0.5,
+      "type": "department;citation_similarity"
+    },
+    {
+      "source": 7,
+      "target": 42,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 7,
+      "target": 64,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 7,
+      "target": 72,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 7,
+      "target": 84,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 8,
+      "target": 15,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 8,
+      "target": 43,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 8,
+      "target": 47,
+      "weight": 0.5,
+      "type": "research_group"
+    },
+    {
+      "source": 8,
+      "target": 53,
+      "weight": 0.8,
+      "type": "department;research_group"
+    },
+    {
+      "source": 8,
+      "target": 60,
+      "weight": 0.8,
+      "type": "department;research_group"
+    },
+    {
+      "source": 8,
+      "target": 62,
+      "weight": 1.3,
+      "type": "department;research_group"
+    },
+    {
+      "source": 8,
+      "target": 67,
+      "weight": 0.5,
+      "type": "research_group"
+    },
+    {
+      "source": 8,
+      "target": 85,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 8,
+      "target": 86,
+      "weight": 0.8,
+      "type": "department;research_group"
+    },
+    {
+      "source": 8,
+      "target": 87,
+      "weight": 0.8,
+      "type": "department;research_group"
+    },
+    {
+      "source": 9,
+      "target": 22,
+      "weight": 0.8,
+      "type": "department;research_group"
+    },
+    {
+      "source": 9,
+      "target": 24,
+      "weight": 0.5,
+      "type": "department;citation_similarity"
+    },
+    {
+      "source": 9,
+      "target": 30,
+      "weight": 0.5,
+      "type": "research_group"
+    },
+    {
+      "source": 9,
+      "target": 31,
+      "weight": 0.5,
+      "type": "department;citation_similarity"
+    },
+    {
+      "source": 9,
+      "target": 33,
+      "weight": 0.5,
+      "type": "department;citation_similarity"
+    },
+    {
+      "source": 9,
+      "target": 45,
+      "weight": 1.0,
+      "type": "department;research_group;citation_similarity"
+    },
+    {
+      "source": 9,
+      "target": 50,
+      "weight": 0.5,
+      "type": "department;citation_similarity"
+    },
+    {
+      "source": 9,
+      "target": 52,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 9,
+      "target": 70,
+      "weight": 0.5,
+      "type": "department;citation_similarity"
+    },
+    {
+      "source": 9,
+      "target": 74,
+      "weight": 0.7,
+      "type": "research_group;citation_similarity"
+    },
+    {
+      "source": 9,
+      "target": 75,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 9,
+      "target": 76,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 9,
+      "target": 81,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 10,
+      "target": 24,
+      "weight": 0.5,
+      "type": "research_group"
+    },
+    {
+      "source": 10,
+      "target": 37,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 10,
+      "target": 42,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 10,
+      "target": 64,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 10,
+      "target": 72,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 10,
+      "target": 84,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 11,
+      "target": 17,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 11,
+      "target": 19,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 11,
+      "target": 26,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 11,
+      "target": 29,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 11,
+      "target": 44,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 11,
+      "target": 55,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 12,
+      "target": 13,
+      "weight": 0.8,
+      "type": "department;research_group"
+    },
+    {
+      "source": 12,
+      "target": 27,
+      "weight": 0.8,
+      "type": "department;research_group"
+    },
+    {
+      "source": 12,
+      "target": 39,
+      "weight": 0.8,
+      "type": "department;research_group"
+    },
+    {
+      "source": 12,
+      "target": 40,
+      "weight": 0.8,
+      "type": "department;research_group"
+    },
+    {
+      "source": 12,
+      "target": 41,
+      "weight": 0.8,
+      "type": "department;research_group"
+    },
+    {
+      "source": 12,
+      "target": 54,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 12,
+      "target": 61,
+      "weight": 0.8,
+      "type": "department;research_group"
+    },
+    {
+      "source": 12,
+      "target": 80,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 13,
+      "target": 27,
+      "weight": 1.0,
+      "type": "department;research_group;citation_similarity"
+    },
+    {
+      "source": 13,
+      "target": 39,
+      "weight": 0.8,
+      "type": "department;research_group"
+    },
+    {
+      "source": 13,
+      "target": 40,
+      "weight": 1.0,
+      "type": "department;research_group;citation_similarity"
+    },
+    {
+      "source": 13,
+      "target": 41,
+      "weight": 0.8,
+      "type": "department;research_group"
+    },
+    {
+      "source": 13,
+      "target": 54,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 13,
+      "target": 61,
+      "weight": 0.8,
+      "type": "department;research_group"
+    },
+    {
+      "source": 13,
+      "target": 80,
+      "weight": 0.5,
+      "type": "department;citation_similarity"
+    },
+    {
+      "source": 14,
+      "target": 23,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 14,
+      "target": 25,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 14,
+      "target": 57,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 14,
+      "target": 63,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 14,
+      "target": 67,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 14,
+      "target": 68,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 14,
+      "target": 69,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 14,
+      "target": 79,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 14,
+      "target": 83,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 15,
+      "target": 43,
+      "weight": 0.5,
+      "type": "department;citation_similarity"
+    },
+    {
+      "source": 15,
+      "target": 53,
+      "weight": 0.5,
+      "type": "department;citation_similarity"
+    },
+    {
+      "source": 15,
+      "target": 60,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 15,
+      "target": 62,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 15,
+      "target": 85,
+      "weight": 0.5,
+      "type": "department;citation_similarity"
+    },
+    {
+      "source": 15,
+      "target": 86,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 15,
+      "target": 87,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 16,
+      "target": 28,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 16,
+      "target": 38,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 16,
+      "target": 47,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 16,
+      "target": 49,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 16,
+      "target": 56,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 16,
+      "target": 58,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 16,
+      "target": 59,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 16,
+      "target": 65,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 16,
+      "target": 66,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 16,
+      "target": 71,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 16,
+      "target": 90,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 17,
+      "target": 19,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 17,
+      "target": 26,
+      "weight": 0.8,
+      "type": "department;research_group"
+    },
+    {
+      "source": 17,
+      "target": 29,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 17,
+      "target": 34,
+      "weight": 0.5,
+      "type": "research_group"
+    },
+    {
+      "source": 17,
+      "target": 44,
+      "weight": 0.8,
+      "type": "department;research_group"
+    },
+    {
+      "source": 17,
+      "target": 55,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 17,
+      "target": 74,
+      "weight": 0.5,
+      "type": "research_group"
+    },
+    {
+      "source": 18,
+      "target": 20,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 18,
+      "target": 36,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 18,
+      "target": 48,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 18,
+      "target": 78,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 18,
+      "target": 89,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 18,
+      "target": 91,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 19,
+      "target": 26,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 19,
+      "target": 29,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 19,
+      "target": 44,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 19,
+      "target": 55,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 20,
+      "target": 36,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 20,
+      "target": 48,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 20,
+      "target": 78,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 20,
+      "target": 89,
+      "weight": 0.5,
+      "type": "department;citation_similarity"
+    },
+    {
+      "source": 20,
+      "target": 91,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 21,
+      "target": 32,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 21,
+      "target": 51,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 21,
+      "target": 73,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 21,
+      "target": 82,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 21,
+      "target": 88,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 22,
+      "target": 24,
+      "weight": 0.5,
+      "type": "department;citation_similarity"
+    },
+    {
+      "source": 22,
+      "target": 30,
+      "weight": 0.7,
+      "type": "research_group;citation_similarity"
+    },
+    {
+      "source": 22,
+      "target": 31,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 22,
+      "target": 33,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 22,
+      "target": 45,
+      "weight": 1.0,
+      "type": "department;research_group;citation_similarity"
+    },
+    {
+      "source": 22,
+      "target": 50,
+      "weight": 0.5,
+      "type": "department;citation_similarity"
+    },
+    {
+      "source": 22,
+      "target": 52,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 22,
+      "target": 70,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 22,
+      "target": 74,
+      "weight": 0.5,
+      "type": "research_group"
+    },
+    {
+      "source": 22,
+      "target": 75,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 22,
+      "target": 76,
+      "weight": 0.5,
+      "type": "department;citation_similarity"
+    },
+    {
+      "source": 22,
+      "target": 81,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 23,
+      "target": 25,
+      "weight": 0.5,
+      "type": "department;citation_similarity"
+    },
+    {
+      "source": 23,
+      "target": 57,
+      "weight": 0.5,
+      "type": "department;citation_similarity"
+    },
+    {
+      "source": 23,
+      "target": 63,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 23,
+      "target": 67,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 23,
+      "target": 68,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 23,
+      "target": 69,
+      "weight": 0.5,
+      "type": "department;citation_similarity"
+    },
+    {
+      "source": 23,
+      "target": 79,
+      "weight": 0.5,
+      "type": "department;citation_similarity"
+    },
+    {
+      "source": 23,
+      "target": 83,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 24,
+      "target": 31,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 24,
+      "target": 33,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 24,
+      "target": 45,
+      "weight": 0.5,
+      "type": "department;citation_similarity"
+    },
+    {
+      "source": 24,
+      "target": 50,
+      "weight": 0.5,
+      "type": "department;citation_similarity"
+    },
+    {
+      "source": 24,
+      "target": 52,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 24,
+      "target": 70,
+      "weight": 0.5,
+      "type": "department;citation_similarity"
+    },
+    {
+      "source": 24,
+      "target": 75,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 24,
+      "target": 76,
+      "weight": 0.5,
+      "type": "department;citation_similarity"
+    },
+    {
+      "source": 24,
+      "target": 81,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 25,
+      "target": 57,
+      "weight": 0.5,
+      "type": "department;citation_similarity"
+    },
+    {
+      "source": 25,
+      "target": 63,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 25,
+      "target": 67,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 25,
+      "target": 68,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 25,
+      "target": 69,
+      "weight": 0.5,
+      "type": "department;citation_similarity"
+    },
+    {
+      "source": 25,
+      "target": 79,
+      "weight": 0.5,
+      "type": "department;citation_similarity"
+    },
+    {
+      "source": 25,
+      "target": 83,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 26,
+      "target": 29,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 26,
+      "target": 34,
+      "weight": 0.5,
+      "type": "research_group"
+    },
+    {
+      "source": 26,
+      "target": 44,
+      "weight": 0.8,
+      "type": "department;research_group"
+    },
+    {
+      "source": 26,
+      "target": 55,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 26,
+      "target": 74,
+      "weight": 0.5,
+      "type": "research_group"
+    },
+    {
+      "source": 27,
+      "target": 39,
+      "weight": 0.8,
+      "type": "department;research_group"
+    },
+    {
+      "source": 27,
+      "target": 40,
+      "weight": 1.0,
+      "type": "department;research_group;citation_similarity"
+    },
+    {
+      "source": 27,
+      "target": 41,
+      "weight": 0.8,
+      "type": "department;research_group"
+    },
+    {
+      "source": 27,
+      "target": 54,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 27,
+      "target": 61,
+      "weight": 0.8,
+      "type": "department;research_group"
+    },
+    {
+      "source": 27,
+      "target": 80,
+      "weight": 0.5,
+      "type": "department;citation_similarity"
+    },
+    {
+      "source": 28,
+      "target": 38,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 28,
+      "target": 47,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 28,
+      "target": 49,
+      "weight": 0.8,
+      "type": "department;research_group"
+    },
+    {
+      "source": 28,
+      "target": 56,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 28,
+      "target": 58,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 28,
+      "target": 59,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 28,
+      "target": 65,
+      "weight": 0.5,
+      "type": "department;citation_similarity"
+    },
+    {
+      "source": 28,
+      "target": 66,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 28,
+      "target": 71,
+      "weight": 0.5,
+      "type": "department;citation_similarity"
+    },
+    {
+      "source": 28,
+      "target": 90,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 29,
+      "target": 44,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 29,
+      "target": 55,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 30,
+      "target": 34,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 30,
+      "target": 45,
+      "weight": 0.7,
+      "type": "research_group;citation_similarity"
+    },
+    {
+      "source": 30,
+      "target": 74,
+      "weight": 0.8,
+      "type": "department;research_group"
+    },
+    {
+      "source": 31,
+      "target": 33,
+      "weight": 0.5,
+      "type": "department;citation_similarity"
+    },
+    {
+      "source": 31,
+      "target": 45,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 31,
+      "target": 50,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 31,
+      "target": 52,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 31,
+      "target": 70,
+      "weight": 0.5,
+      "type": "department;citation_similarity"
+    },
+    {
+      "source": 31,
+      "target": 75,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 31,
+      "target": 76,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 31,
+      "target": 81,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 32,
+      "target": 51,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 32,
+      "target": 73,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 32,
+      "target": 82,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 32,
+      "target": 88,
+      "weight": 0.5,
+      "type": "department;citation_similarity"
+    },
+    {
+      "source": 33,
+      "target": 45,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 33,
+      "target": 50,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 33,
+      "target": 52,
+      "weight": 0.8,
+      "type": "department;research_group"
+    },
+    {
+      "source": 33,
+      "target": 70,
+      "weight": 0.5,
+      "type": "department;citation_similarity"
+    },
+    {
+      "source": 33,
+      "target": 75,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 33,
+      "target": 76,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 33,
+      "target": 81,
+      "weight": 0.8,
+      "type": "department;research_group"
+    },
+    {
+      "source": 34,
+      "target": 44,
+      "weight": 0.5,
+      "type": "research_group"
+    },
+    {
+      "source": 34,
+      "target": 74,
+      "weight": 0.8,
+      "type": "department;research_group"
+    },
+    {
+      "source": 35,
+      "target": 46,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 36,
+      "target": 48,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 36,
+      "target": 78,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 36,
+      "target": 89,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 36,
+      "target": 91,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 37,
+      "target": 42,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 37,
+      "target": 64,
+      "weight": 0.8,
+      "type": "department;research_group"
+    },
+    {
+      "source": 37,
+      "target": 72,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 37,
+      "target": 84,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 38,
+      "target": 47,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 38,
+      "target": 49,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 38,
+      "target": 56,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 38,
+      "target": 58,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 38,
+      "target": 59,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 38,
+      "target": 65,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 38,
+      "target": 66,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 38,
+      "target": 71,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 38,
+      "target": 90,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 39,
+      "target": 40,
+      "weight": 0.8,
+      "type": "department;research_group"
+    },
+    {
+      "source": 39,
+      "target": 41,
+      "weight": 0.8,
+      "type": "department;research_group"
+    },
+    {
+      "source": 39,
+      "target": 54,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 39,
+      "target": 61,
+      "weight": 1.0,
+      "type": "department;research_group;citation_similarity"
+    },
+    {
+      "source": 39,
+      "target": 80,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 40,
+      "target": 41,
+      "weight": 1.0,
+      "type": "department;research_group;citation_similarity"
+    },
+    {
+      "source": 40,
+      "target": 54,
+      "weight": 0.5,
+      "type": "department;citation_similarity"
+    },
+    {
+      "source": 40,
+      "target": 61,
+      "weight": 0.8,
+      "type": "department;research_group"
+    },
+    {
+      "source": 40,
+      "target": 80,
+      "weight": 0.5,
+      "type": "department;citation_similarity"
+    },
+    {
+      "source": 41,
+      "target": 54,
+      "weight": 0.5,
+      "type": "department;citation_similarity"
+    },
+    {
+      "source": 41,
+      "target": 61,
+      "weight": 0.8,
+      "type": "department;research_group"
+    },
+    {
+      "source": 41,
+      "target": 80,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 42,
+      "target": 64,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 42,
+      "target": 72,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 42,
+      "target": 84,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 43,
+      "target": 53,
+      "weight": 0.5,
+      "type": "department;citation_similarity"
+    },
+    {
+      "source": 43,
+      "target": 60,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 43,
+      "target": 62,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 43,
+      "target": 85,
+      "weight": 0.5,
+      "type": "department;citation_similarity"
+    },
+    {
+      "source": 43,
+      "target": 86,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 43,
+      "target": 87,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 44,
+      "target": 55,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 44,
+      "target": 74,
+      "weight": 0.7,
+      "type": "research_group;citation_similarity"
+    },
+    {
+      "source": 45,
+      "target": 50,
+      "weight": 0.5,
+      "type": "department;citation_similarity"
+    },
+    {
+      "source": 45,
+      "target": 52,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 45,
+      "target": 70,
+      "weight": 0.5,
+      "type": "department;citation_similarity"
+    },
+    {
+      "source": 45,
+      "target": 74,
+      "weight": 0.5,
+      "type": "research_group"
+    },
+    {
+      "source": 45,
+      "target": 75,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 45,
+      "target": 76,
+      "weight": 0.5,
+      "type": "department;citation_similarity"
+    },
+    {
+      "source": 45,
+      "target": 81,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 47,
+      "target": 49,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 47,
+      "target": 56,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 47,
+      "target": 58,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 47,
+      "target": 59,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 47,
+      "target": 62,
+      "weight": 0.5,
+      "type": "research_group"
+    },
+    {
+      "source": 47,
+      "target": 65,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 47,
+      "target": 66,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 47,
+      "target": 71,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 47,
+      "target": 90,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 48,
+      "target": 78,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 48,
+      "target": 89,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 48,
+      "target": 91,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 49,
+      "target": 56,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 49,
+      "target": 58,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 49,
+      "target": 59,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 49,
+      "target": 65,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 49,
+      "target": 66,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 49,
+      "target": 71,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 49,
+      "target": 90,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 50,
+      "target": 52,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 50,
+      "target": 70,
+      "weight": 0.5,
+      "type": "department;citation_similarity"
+    },
+    {
+      "source": 50,
+      "target": 75,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 50,
+      "target": 76,
+      "weight": 0.5,
+      "type": "department;citation_similarity"
+    },
+    {
+      "source": 50,
+      "target": 81,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 51,
+      "target": 73,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 51,
+      "target": 82,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 51,
+      "target": 88,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 52,
+      "target": 70,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 52,
+      "target": 75,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 52,
+      "target": 76,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 52,
+      "target": 81,
+      "weight": 0.8,
+      "type": "department;research_group"
+    },
+    {
+      "source": 53,
+      "target": 60,
+      "weight": 0.8,
+      "type": "department;research_group"
+    },
+    {
+      "source": 53,
+      "target": 62,
+      "weight": 0.8,
+      "type": "department;research_group"
+    },
+    {
+      "source": 53,
+      "target": 67,
+      "weight": 0.7,
+      "type": "research_group;citation_similarity"
+    },
+    {
+      "source": 53,
+      "target": 85,
+      "weight": 0.5,
+      "type": "department;citation_similarity"
+    },
+    {
+      "source": 53,
+      "target": 86,
+      "weight": 0.8,
+      "type": "department;research_group"
+    },
+    {
+      "source": 53,
+      "target": 87,
+      "weight": 0.8,
+      "type": "department;research_group"
+    },
+    {
+      "source": 54,
+      "target": 61,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 54,
+      "target": 80,
+      "weight": 0.8,
+      "type": "department;research_group"
+    },
+    {
+      "source": 56,
+      "target": 58,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 56,
+      "target": 59,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 56,
+      "target": 65,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 56,
+      "target": 66,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 56,
+      "target": 71,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 56,
+      "target": 90,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 57,
+      "target": 63,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 57,
+      "target": 67,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 57,
+      "target": 68,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 57,
+      "target": 69,
+      "weight": 0.5,
+      "type": "department;citation_similarity"
+    },
+    {
+      "source": 57,
+      "target": 79,
+      "weight": 0.5,
+      "type": "department;citation_similarity"
+    },
+    {
+      "source": 57,
+      "target": 83,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 58,
+      "target": 59,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 58,
+      "target": 65,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 58,
+      "target": 66,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 58,
+      "target": 71,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 58,
+      "target": 90,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 59,
+      "target": 65,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 59,
+      "target": 66,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 59,
+      "target": 71,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 59,
+      "target": 90,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 60,
+      "target": 62,
+      "weight": 0.8,
+      "type": "department;research_group"
+    },
+    {
+      "source": 60,
+      "target": 67,
+      "weight": 0.5,
+      "type": "research_group"
+    },
+    {
+      "source": 60,
+      "target": 85,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 60,
+      "target": 86,
+      "weight": 0.8,
+      "type": "department;research_group"
+    },
+    {
+      "source": 60,
+      "target": 87,
+      "weight": 0.8,
+      "type": "department;research_group"
+    },
+    {
+      "source": 61,
+      "target": 80,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 62,
+      "target": 67,
+      "weight": 0.5,
+      "type": "research_group"
+    },
+    {
+      "source": 62,
+      "target": 85,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 62,
+      "target": 86,
+      "weight": 0.8,
+      "type": "department;research_group"
+    },
+    {
+      "source": 62,
+      "target": 87,
+      "weight": 1.0,
+      "type": "department;research_group;citation_similarity"
+    },
+    {
+      "source": 63,
+      "target": 67,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 63,
+      "target": 68,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 63,
+      "target": 69,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 63,
+      "target": 79,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 63,
+      "target": 83,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 64,
+      "target": 72,
+      "weight": 0.5,
+      "type": "department;citation_similarity"
+    },
+    {
+      "source": 64,
+      "target": 84,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 65,
+      "target": 66,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 65,
+      "target": 71,
+      "weight": 0.5,
+      "type": "department;citation_similarity"
+    },
+    {
+      "source": 65,
+      "target": 90,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 66,
+      "target": 71,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 66,
+      "target": 90,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 67,
+      "target": 68,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 67,
+      "target": 69,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 67,
+      "target": 79,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 67,
+      "target": 83,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 67,
+      "target": 86,
+      "weight": 0.5,
+      "type": "research_group"
+    },
+    {
+      "source": 67,
+      "target": 87,
+      "weight": 0.5,
+      "type": "research_group"
+    },
+    {
+      "source": 68,
+      "target": 69,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 68,
+      "target": 79,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 68,
+      "target": 83,
+      "weight": 0.5,
+      "type": "department;citation_similarity"
+    },
+    {
+      "source": 69,
+      "target": 79,
+      "weight": 0.5,
+      "type": "department;citation_similarity"
+    },
+    {
+      "source": 69,
+      "target": 83,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 70,
+      "target": 75,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 70,
+      "target": 76,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 70,
+      "target": 81,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 71,
+      "target": 90,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 72,
+      "target": 84,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 73,
+      "target": 82,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 73,
+      "target": 88,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 75,
+      "target": 76,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 75,
+      "target": 81,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 76,
+      "target": 81,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 78,
+      "target": 89,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 78,
+      "target": 91,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 79,
+      "target": 83,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 82,
+      "target": 88,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 85,
+      "target": 86,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 85,
+      "target": 87,
+      "weight": 0.3,
+      "type": "department"
+    },
+    {
+      "source": 86,
+      "target": 87,
+      "weight": 0.8,
+      "type": "department;research_group"
+    },
+    {
+      "source": 89,
+      "target": 91,
+      "weight": 0.3,
+      "type": "department"
+    }
+  ],
+  "departments": [
+    "Departamento de Ingeniería Civil y Ambiental",
+    "Departamento de Ciencias",
+    "Unknown Department",
+    "Departamento de Ciencia de Datos y Sistemas de Información",
+    "Departamento de Humanidades, Artes y Ciencias Sociales",
+    "Departamento de Ingeniería Mecánica y de la Energía",
+    "Departamento de Ingeniería Industrial y Gestión de la Ingeniería",
+    "Departamento de Ciencia de la Computación",
+    "Departamento de Bioingeniería e Ingeniería Química",
+    "Departamento de Ingeniería Electrónica y Mecatrónica",
+    "Departamento de Negocios Digitales",
+    "Facultad de Negocios"
+  ],
+  "department_colors": {
+    "Departamento de Ingeniería Civil y Ambiental": "#1f77b4",
+    "Departamento de Ciencias": "#ff7f0e",
+    "Unknown Department": "#2ca02c",
+    "Departamento de Ciencia de Datos y Sistemas de Información": "#d62728",
+    "Departamento de Humanidades, Artes y Ciencias Sociales": "#9467bd",
+    "Departamento de Ingeniería Mecánica y de la Energía": "#8c564b",
+    "Departamento de Ingeniería Industrial y Gestión de la Ingeniería": "#e377c2",
+    "Departamento de Ciencia de la Computación": "#7f7f7f",
+    "Departamento de Bioingeniería e Ingeniería Química": "#bcbd22",
+    "Departamento de Ingeniería Electrónica y Mecatrónica": "#17becf",
+    "Departamento de Negocios Digitales": "#1f77b4",
+    "Facultad de Negocios": "#ff7f0e"
+  },
+  "stats": {
+    "total_nodes": 92,
+    "total_edges": 418,
+    "departments_count": 12
+  }
+}
