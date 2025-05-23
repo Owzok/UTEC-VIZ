@@ -1,0 +1,482 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <style>
+    body {
+      font-family: Arial, sans-serif; 
+      margin: 0;
+      padding: 20px; 
+      background: #fff; 
+    }
+    
+    .task-panel {
+      margin-bottom: 20px;
+    }
+    
+    .task-header {
+      cursor: pointer;
+      background: #2c3e50;
+      color: #fff;
+      padding: 10px;
+      border-radius: 5px;
+      user-select: none;
+    }
+    
+    .task-header:hover {
+      background: #34495e;
+    }
+    
+    .task-body {
+      display: none;
+      border: 1px solid #ddd;
+      padding: 15px;
+      border-radius: 0 0 5px 5px;
+      background: #f9f9f9;
+    }
+    
+    table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+    
+    th, td {
+      padding: 8px;
+      border: 1px solid #ddd;
+      text-align: left;
+    }
+    
+    th {
+      background: #f0f0f0;
+    }
+    
+    tr:nth-child(even) {
+      background: #f9f9f9;
+    }
+    
+    .stats-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 15px;
+      margin-top: 15px;
+    }
+    
+    .stat-box {
+      padding: 15px;
+      border: 1px solid #ddd;
+      border-radius: 5px;
+      background: #f8f9fa;
+      text-align: center;
+    }
+    
+    .stat-value {
+      font-size: 24px;
+      font-weight: bold;
+      color: #2980b9;
+    }
+    
+    .stat-label {
+      font-size: 12px;
+      color: #666;
+      margin-top: 5px;
+    }
+    
+    .legend {
+      background: rgba(255, 255, 255, 0.9);
+      padding: 15px;
+      border-radius: 5px;
+      border: 1px solid #ddd;
+    }
+    
+    .legend-item {
+      display: flex;
+      align-items: center;
+      margin-bottom: 8px;
+    }
+    
+    .legend-color {
+      width: 16px;
+      height: 16px;
+      border-radius: 50%;
+      margin-right: 10px;
+    }
+  </style>
+</head>
+<body>
+  <div style="display: flex; align-items: center;">
+    <img style="width: 10%; max-width: 100px;" src="uteclogo.png" alt="UTEC Logo">
+    <h1 style="font-size: 42px; margin-left: 20px;">VIZ</h1>
+  </div>
+
+  <div id="chart"></div>
+  <div id="stats"></div>
+  <div id="task-results"></div>
+
+  <script>
+    // Datos embebidos - reemplaza este objeto con tu archivo faculty_network.json
+    const embeddedData = {
+      "nodes": [
+        // Aquí van tus nodos - copia desde faculty_network.json
+        {
+          "id": "prof1",
+          "name": "Dr. Juan Pérez",
+          "department": "Departamento de Ingeniería",
+          "h_index": 15,
+          "citations": 500,
+          "degree": 8,
+          "betweenness_centrality": 0.05,
+          "pagerank": 0.02,
+          "clustering": 0.3,
+          "size": 15,
+          "color": "#ff6b6b"
+        }
+        // ... más nodos
+      ],
+      "edges": [
+        // Aquí van tus enlaces - copia desde faculty_network.json
+        {
+          "source": "prof1",
+          "target": "prof2",
+          "weight": 3
+        }
+        // ... más enlaces
+      ],
+      "departments": [
+        "Departamento de Ingeniería",
+        "Departamento de Ciencias"
+        // ... más departamentos
+      ],
+      "department_colors": {
+        "Departamento de Ingeniería": "#ff6b6b",
+        "Departamento de Ciencias": "#4ecdc4"
+        // ... más colores
+      },
+      "stats": {}
+    };
+
+    document.addEventListener("DOMContentLoaded", function () {
+      // Cargar datos (ahora desde la variable embebida)
+      const data = embeddedData;
+      
+      // Procesar datos
+      const nodes = data.nodes.map(d => ({
+        ...d,
+        id: d.id,
+        x: Math.random() * 800,
+        y: Math.random() * 600
+      }));
+
+      const links = data.edges.map(d => ({
+        ...d,
+        source: d.source,
+        target: d.target
+      }));
+
+      const processedData = {
+        nodes,
+        links,
+        departments: data.departments,
+        department_colors: data.department_colors,
+        stats: data.stats
+      };
+
+      // Crear visualización
+      createVisualization(processedData);
+      
+      // Crear análisis de tareas
+      createTaskAnalysis(data);
+    });
+
+    function createVisualization(data) {
+      const width = Math.min(1920, window.innerWidth - 40);
+      const height = 500;
+
+      // Estadísticas
+      const stats = {
+        totalNodes: data.nodes.length,
+        totalLinks: data.links.length,
+        totalDepartments: data.departments.length,
+        avgDegree: d3.mean(data.nodes, d => d.degree).toFixed(2),
+        networkDensity: (2 * data.links.length / (data.nodes.length * (data.nodes.length - 1))).toFixed(4),
+        avgClustering: d3.mean(data.nodes, d => d.clustering).toFixed(3)
+      };
+
+      const statsContainer = d3.select("#stats")
+        .append("div")
+        .style("margin", "20px 0");
+
+      statsContainer.append("h3")
+        .text("Network Statistics")
+        .style("color", "#2c3e50");
+
+      const statsGrid = statsContainer.append("div")
+        .attr("class", "stats-grid");
+
+      Object.entries(stats).forEach(([key, value]) => {
+        const statBox = statsGrid.append("div")
+          .attr("class", "stat-box");
+
+        statBox.append("div")
+          .attr("class", "stat-value")
+          .text(value);
+
+        statBox.append("div")
+          .attr("class", "stat-label")
+          .text(key.replace(/([A-Z])/g, " $1").trim());
+      });
+
+      // SVG
+      const svg = d3.select("#chart")
+        .append("svg")
+        .attr("width", "100%")
+        .attr("height", height)
+        .style("background", "#fafafa");
+
+      const g = svg.append("g");
+
+      const zoom = d3.zoom()
+        .scaleExtent([0.1, 5])
+        .on("zoom", (event) => {
+          g.attr("transform", event.transform);
+        });
+
+      svg.call(zoom);
+
+      // Simulación
+      const simulation = d3.forceSimulation(data.nodes)
+        .force("link", d3.forceLink(data.links).id(d => d.id).distance(50).strength(0.5))
+        .force("charge", d3.forceManyBody().strength(-1500))
+        .force("center", d3.forceCenter(width / 2, height / 2))
+        .force("x", d3.forceX(width / 2).strength(0.1))
+        .force("y", d3.forceY(height / 2).strength(0.1))
+        .force("collision", d3.forceCollide().radius(d => d.size + 5))
+        .on("tick", ticked);
+
+      // Enlaces
+      const link = g.append("g")
+        .selectAll("line")
+        .data(data.links)
+        .enter().append("line")
+        .attr("stroke", "#999")
+        .attr("stroke-opacity", d => Math.min(1, d.weight))
+        .attr("stroke-width", d => Math.sqrt(d.weight) * 2);
+
+      // Nodos
+      const node = g.append("g")
+        .selectAll("g")
+        .data(data.nodes)
+        .enter().append("g")
+        .call(d3.drag()
+          .on("start", dragstarted)
+          .on("drag", dragged)
+          .on("end", dragended));
+
+      node.append("circle")
+        .attr("r", d => d.size)
+        .attr("fill", d => d.color || "#69b3a2")
+        .attr("stroke", "#fff")
+        .attr("stroke-width", 2);
+
+      node.filter(d => d.image_url)
+        .append("image")
+        .attr("xlink:href", d => d.image_url)
+        .attr("x", d => -d.size * 0.8)
+        .attr("y", d => -d.size * 0.8)
+        .attr("width", d => d.size * 1.6)
+        .attr("height", d => d.size * 1.6)
+        .attr("clip-path", "circle()");
+
+      node.append("text")
+        .text(d => d.name.split(" ").slice(-2).join(" "))
+        .attr("x", 0)
+        .attr("y", d => d.size + 15)
+        .attr("text-anchor", "middle")
+        .attr("font-size", "10px")
+        .attr("fill", "#333");
+
+      node.append("title")
+        .text(d => `${d.name}\nDepartment: ${d.department}\nH-index: ${d.h_index}\nCitations: ${d.citations}`);
+
+      // Leyenda
+      const legend = svg.append("g")
+        .attr("class", "legend")
+        .attr("transform", `translate(${width - 250}, 20)`);
+
+      const legendBg = legend.append("rect")
+        .attr("width", 230)
+        .attr("height", data.departments.length * 25 + 20)
+        .attr("fill", "rgba(255, 255, 255, 0.9)")
+        .attr("stroke", "#ddd")
+        .attr("rx", 5);
+
+      const legendItems = legend.selectAll(".legend-item")
+        .data(data.departments)
+        .enter().append("g")
+        .attr("class", "legend-item")
+        .attr("transform", (d, i) => `translate(10, ${i * 25 + 15})`);
+
+      legendItems.append("circle")
+        .attr("r", 8)
+        .attr("fill", d => data.department_colors[d]);
+
+      legendItems.append("text")
+        .attr("x", 15)
+        .attr("y", 5)
+        .text(d => d.replace("Departamento de ", ""))
+        .attr("font-size", "12px")
+        .attr("font-family", "Arial, sans-serif");
+
+      function ticked() {
+        link
+          .attr("x1", d => d.source.x)
+          .attr("y1", d => d.source.y)
+          .attr("x2", d => d.target.x)
+          .attr("y2", d => d.target.y);
+
+        node.attr("transform", d => `translate(${d.x},${d.y})`);
+      }
+
+      function dragstarted(event, d) {
+        if (!event.active) simulation.alphaTarget(0.3).restart();
+        d.fx = d.x;
+        d.fy = d.y;
+      }
+
+      function dragged(event, d) {
+        d.fx = event.x;
+        d.fy = event.y;
+      }
+
+      function dragended(event, d) {
+        if (!event.active) simulation.alphaTarget(0);
+        d.fx = null;
+        d.fy = null;
+      }
+    }
+
+    function createTaskAnalysis(data) {
+      const maxH = Math.max(...data.nodes.map(d => d.h_index || 0));
+
+      const tasks = {
+        task1: {
+          title: "Who are the most prolific collaborators?",
+          description: "Faculty with highest degree centrality (most connections)",
+          topResults: data.nodes
+            .slice()
+            .sort((a, b) => b.degree - a.degree)
+            .slice(0, 5)
+            .map(d => ({
+              name: d.name,
+              department: d.department,
+              degree: d.degree,
+              connections: d.degree
+            }))
+        },
+        task2: {
+          title: "Which professors act as bridges between departments?",
+          description: "Faculty with highest betweenness centrality",
+          topResults: data.nodes
+            .slice()
+            .sort((a, b) => b.betweenness_centrality - a.betweenness_centrality)
+            .slice(0, 5)
+            .map(d => ({
+              name: d.name,
+              department: d.department,
+              betweenness: d.betweenness_centrality,
+              bridge_score: d.betweenness_centrality
+            }))
+        },
+        task3: {
+          title: "Who are the most influential faculty members?",
+          description: "Faculty with highest combined PageRank and H-index scores",
+          topResults: data.nodes
+            .slice()
+            .map(d => ({
+              ...d,
+              influence_score: 0.7 * d.pagerank + 0.3 * (d.h_index / maxH)
+            }))
+            .sort((a, b) => b.influence_score - a.influence_score)
+            .slice(0, 5)
+            .map(d => ({
+              name: d.name,
+              department: d.department,
+              pagerank: d.pagerank.toFixed(4),
+              h_index: d.h_index,
+              influence_score: d.influence_score.toFixed(4)
+            }))
+        },
+        task4: {
+          title: "Which departments have the strongest internal collaboration?",
+          description: "Departments with highest average clustering coefficient",
+          topResults: Object.entries(
+            data.nodes.reduce((acc, node) => {
+              if (!acc[node.department]) {
+                acc[node.department] = { sum: 0, count: 0 };
+              }
+              acc[node.department].sum += node.clustering;
+              acc[node.department].count += 1;
+              return acc;
+            }, {})
+          )
+            .map(([dept, info]) => ({
+              department: dept,
+              avg_clustering: info.sum / info.count,
+              faculty_count: info.count,
+              internal_collaboration: (info.sum / info.count).toFixed(3)
+            }))
+            .sort((a, b) => b.avg_clustering - a.avg_clustering)
+            .slice(0, 5)
+        }
+      };
+
+      const container = d3.select("#task-results");
+
+      container.append("h2")
+        .text("Network Analysis Insights")
+        .style("font-family", "sans-serif")
+        .style("margin-bottom", "20px");
+
+      Object.entries(tasks).forEach(([_, task], index) => {
+        const panel = container.append("div")
+          .attr("class", "task-panel");
+
+        const header = panel.append("div")
+          .attr("class", "task-header")
+          .text(`${index + 1}. ${task.title}`)
+          .on("click", function () {
+            const body = d3.select(this.parentNode).select(".task-body");
+            const isVisible = body.style("display") !== "none";
+            body.style("display", isVisible ? "none" : "block");
+          });
+
+        const body = panel.append("div")
+          .attr("class", "task-body");
+
+        body.append("p")
+          .text(task.description)
+          .style("font-style", "italic")
+          .style("margin-bottom", "10px");
+
+        const table = body.append("table");
+
+        const headers = Object.keys(task.topResults[0] || {});
+        const headerRow = table.append("tr");
+        headers.forEach(header => {
+          headerRow.append("th")
+            .text(header.replace(/_/g, " ").toUpperCase());
+        });
+
+        task.topResults.forEach((result) => {
+          const row = table.append("tr");
+          headers.forEach(header => {
+            row.append("td")
+              .text(result[header]);
+          });
+        });
+      });
+    }
+  </script>
+</body>
+</html>
